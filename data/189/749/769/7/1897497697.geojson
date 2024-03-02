@@ -2,10 +2,12 @@
   "id": 1897497697,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-01",
+    "date:cessation_upper": "2024-03-01",
     "date:inception_lower": "2024-03-01",
     "date:inception_upper": "2024-03-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-01",
+    "edtf:cessation": "2024-03-01T19:51:59Z",
+    "edtf:inception": "2024-03-01T09:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "KL",
     "flysfo:date": "2024-03-01",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "78836355"
+    },
     "wof:country": "US",
     "wof:created": 1709395809,
     "wof:geomhash": "bfe9b4dfbd612ca8de6bd9460273f90d",
@@ -50,7 +55,7 @@
       1159284613,
       -1
     ],
-    "wof:lastmodified": 1709395809,
+    "wof:lastmodified": 1709397049,
     "wof:name": "KL221 (AMS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

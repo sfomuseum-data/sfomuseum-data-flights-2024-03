@@ -2,10 +2,12 @@
   "id": 1897500395,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-02",
+    "date:cessation_upper": "2024-03-02",
     "date:inception_lower": "2024-03-01",
     "date:inception_upper": "2024-03-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-01",
+    "edtf:cessation": "2024-03-02T00:58:05Z",
+    "edtf:inception": "2024-03-01T20:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "78776188"
+    },
     "wof:country": "US",
     "wof:created": 1709396449,
     "wof:geomhash": "eed3ad030b4c80153105b635669626b5",
@@ -92,7 +97,7 @@
       1763588141,
       1159283849
     ],
-    "wof:lastmodified": 1709396449,
+    "wof:lastmodified": 1709397079,
     "wof:name": "AS448 (SFO-TPA)",
     "wof:parent_id": 1763588141,
     "wof:placetype": "custom",

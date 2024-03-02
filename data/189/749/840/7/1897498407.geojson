@@ -2,10 +2,12 @@
   "id": 1897498407,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-01",
-    "date:inception_upper": "2024-03-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-01",
+    "date:cessation_lower": "2024-03-01",
+    "date:cessation_upper": "2024-03-01",
+    "date:inception_lower": "2024-03-02",
+    "date:inception_upper": "2024-03-02",
+    "edtf:cessation": "2024-03-01T12:17:55-08:00",
+    "edtf:inception": "2024-03-02T02:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.4384925,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617477,
     "lbl:longitude": -122.388302,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240301-A-ACA-4211",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N467UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KL83837600"
+    },
     "wof:country": "US",
     "wof:created": 1709395985,
     "wof:geomhash": "a35a6e87f0ae0f1f716f88067ee31aa3",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1897498407,
     "wof:involves": [
+      1159292085,
       102527513,
       102533591,
       1159285413,
       1763588283,
       1159283597
     ],
-    "wof:lastmodified": 1709395985,
+    "wof:lastmodified": 1709397056,
     "wof:name": "UA1871 (PSP-SFO)",
     "wof:parent_id": 1763588283,
     "wof:placetype": "custom",

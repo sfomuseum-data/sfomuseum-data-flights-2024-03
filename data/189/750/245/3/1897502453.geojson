@@ -2,10 +2,12 @@
   "id": 1897502453,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-01",
-    "date:inception_upper": "2024-03-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-01",
+    "date:cessation_lower": "2024-03-02",
+    "date:cessation_upper": "2024-03-02",
+    "date:inception_lower": "2024-03-02",
+    "date:inception_upper": "2024-03-02",
+    "edtf:cessation": "2024-03-02T23:30:05Z",
+    "edtf:inception": "2024-03-01T16:32:35-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": 11.236410499999998,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "icao:base_airline": "VOZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102557779,
     "sfomuseum:base_flight_id": "20240301-D-VOZ-8002",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N2341U",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO20826700"
+    },
     "wof:country": "US",
     "wof:created": 1709396930,
     "wof:geomhash": "945559894ecf54761855aac48d7d95c2",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1897502453,
     "wof:involves": [
+      1159289993,
       102557779,
       102527513,
       1159285413,
       1763588465,
       1159285485
     ],
-    "wof:lastmodified": 1709396930,
+    "wof:lastmodified": 1709397056,
     "wof:name": "UA60 (SFO-MEL)",
     "wof:parent_id": 1763588465,
     "wof:placetype": "custom",

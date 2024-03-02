@@ -2,10 +2,12 @@
   "id": 1897496565,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-02",
+    "date:cessation_upper": "2024-03-02",
     "date:inception_lower": "2024-03-01",
     "date:inception_upper": "2024-03-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-01",
+    "edtf:cessation": "2024-03-01T23:37:21-08:00",
+    "edtf:inception": "2024-03-01T14:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240301-A-KAL-6113",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N514AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "78745261"
+    },
     "wof:country": "US",
     "wof:created": 1709395537,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1897496565,
     "wof:involves": [
+      1159289871,
       102527513,
       102533269,
       1159283813,
       1763588145,
       1159284625
     ],
-    "wof:lastmodified": 1709395537,
+    "wof:lastmodified": 1709397071,
     "wof:name": "AS1082 (SEA-SFO)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",
