@@ -2,10 +2,12 @@
   "id": 1897522201,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-02",
+    "date:cessation_upper": "2024-03-02",
     "date:inception_lower": "2024-03-02",
     "date:inception_upper": "2024-03-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-02",
+    "edtf:cessation": "2024-03-02T21:19:55Z",
+    "edtf:inception": "2024-03-02T19:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "78972928"
+    },
     "wof:country": "US",
     "wof:created": 1709482310,
     "wof:geomhash": "4b8d850891e12dfac0a460ee51cd363b",
@@ -92,7 +97,7 @@
       1763588285,
       1159283597
     ],
-    "wof:lastmodified": 1709482310,
+    "wof:lastmodified": 1709483317,
     "wof:name": "UA1617 (YYC-SFO)",
     "wof:parent_id": 1763588285,
     "wof:placetype": "custom",

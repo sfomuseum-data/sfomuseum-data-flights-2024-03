@@ -2,10 +2,12 @@
   "id": 1897523985,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-02",
-    "date:inception_upper": "2024-03-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-02",
+    "date:cessation_lower": "2024-03-03",
+    "date:cessation_upper": "2024-03-03",
+    "date:inception_lower": "2024-03-03",
+    "date:inception_upper": "2024-03-03",
+    "edtf:cessation": "2024-03-03T07:48:18Z",
+    "edtf:inception": "2024-03-03T06:14:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20240302-D-BAW-2947",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N461AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "78830416"
+    },
     "wof:country": "US",
     "wof:created": 1709482725,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1897523985,
     "wof:involves": [
-      102533269,
       102527513,
       1159283813,
       1763588145,
-      1159284021
+      1159284021,
+      1377564285,
+      102533269
     ],
-    "wof:lastmodified": 1709482725,
+    "wof:lastmodified": 1709483308,
     "wof:name": "AS1319 (SFO-SEA)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",

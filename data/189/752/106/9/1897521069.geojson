@@ -2,10 +2,12 @@
   "id": 1897521069,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-02",
+    "date:cessation_upper": "2024-03-02",
     "date:inception_lower": "2024-03-02",
     "date:inception_upper": "2024-03-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-02",
+    "edtf:cessation": "2024-03-02T18:14:06Z",
+    "edtf:inception": "2024-03-02T06:50:45Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CZ",
     "flysfo:date": "2024-03-02",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "78833325"
+    },
     "wof:country": "US",
     "wof:created": 1709482043,
     "wof:geomhash": "247e1e318adb65668d4614fd3ca74ae2",
@@ -86,7 +91,7 @@
       1159284165,
       1763588419
     ],
-    "wof:lastmodified": 1709482043,
+    "wof:lastmodified": 1709483304,
     "wof:name": "CZ659 (CAN-SFO)",
     "wof:parent_id": 1763588419,
     "wof:placetype": "custom",

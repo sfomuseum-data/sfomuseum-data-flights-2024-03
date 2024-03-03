@@ -2,10 +2,12 @@
   "id": 1897524103,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-02",
+    "date:cessation_upper": "2024-03-02",
     "date:inception_lower": "2024-03-02",
     "date:inception_upper": "2024-03-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-02",
+    "edtf:cessation": "2024-03-02T16:44:41Z",
+    "edtf:inception": "2024-03-02T15:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2024-03-02",
@@ -34,6 +36,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +54,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "78856988"
+    },
     "wof:country": "US",
     "wof:created": 1709482752,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -86,7 +95,7 @@
       1159283813,
       1763588135
     ],
-    "wof:lastmodified": 1709482752,
+    "wof:lastmodified": 1709483309,
     "wof:name": "AS714 (SFO-PHX)",
     "wof:parent_id": 1763588135,
     "wof:placetype": "custom",

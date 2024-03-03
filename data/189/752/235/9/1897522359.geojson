@@ -2,10 +2,12 @@
   "id": 1897522359,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-02",
+    "date:cessation_upper": "2024-03-02",
     "date:inception_lower": "2024-03-02",
     "date:inception_upper": "2024-03-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-02",
+    "edtf:cessation": "2024-03-02T23:17:00Z",
+    "edtf:inception": "2024-03-02T21:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.4384925,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.619124,
     "lbl:longitude": -122.383949,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240302-A-ANZ-9544",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +60,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "78893520",
+      "swim:gufi": "KL65501700"
+    },
     "wof:country": "US",
     "wof:created": 1709482346,
     "wof:geomhash": "a35a6e87f0ae0f1f716f88067ee31aa3",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1897522359,
     "wof:involves": [
+      1528104577,
       102527513,
       102533591,
       1159285413,
       1763588351,
       1159283697
     ],
-    "wof:lastmodified": 1709482346,
+    "wof:lastmodified": 1709483318,
     "wof:name": "UA2663 (PSP-SFO)",
     "wof:parent_id": 1763588351,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1897526083,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-02",
-    "date:inception_upper": "2024-03-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-02",
+    "date:cessation_lower": "2024-03-03",
+    "date:cessation_upper": "2024-03-03",
+    "date:inception_lower": "2024-03-03",
+    "date:inception_upper": "2024-03-03",
+    "edtf:cessation": "2024-03-03T10:02:00Z",
+    "edtf:inception": "2024-03-02T17:22:08-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-03-02",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.022982,
     "geom:longitude": -121.104038,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527337,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N847UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KO14656100"
+    },
     "wof:country": "US",
     "wof:created": 1709483208,
     "wof:geomhash": "1d9a5fa2c9575ebb155d9645f1016c57",
@@ -45,12 +57,12 @@
     ],
     "wof:id": 1897526083,
     "wof:involves": [
+      1159289407,
       102527337,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1709483208,
+    "wof:lastmodified": 1709483325,
     "wof:name": "UA8257 (SFO-SBA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

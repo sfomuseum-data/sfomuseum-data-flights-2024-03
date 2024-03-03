@@ -2,10 +2,12 @@
   "id": 1897525645,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-02",
+    "date:cessation_upper": "2024-03-02",
     "date:inception_lower": "2024-03-02",
     "date:inception_upper": "2024-03-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-02",
+    "edtf:cessation": "2024-03-02T02:56:00Z",
+    "edtf:inception": "2024-03-02T01:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618486,
     "lbl:longitude": -122.384457,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527363,
     "sfomuseum:base_flight_id": "20240302-D-ACA-4215",
@@ -53,6 +57,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "78814921"
+    },
     "wof:country": "US",
     "wof:created": 1709483108,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -86,13 +93,14 @@
     ],
     "wof:id": 1897525645,
     "wof:involves": [
+      1528104575,
       102527363,
       102527513,
       1159285413,
       1763588339,
       1159283597
     ],
-    "wof:lastmodified": 1709483108,
+    "wof:lastmodified": 1709483321,
     "wof:name": "UA1606 (SFO-SLC)",
     "wof:parent_id": 1763588339,
     "wof:placetype": "custom",

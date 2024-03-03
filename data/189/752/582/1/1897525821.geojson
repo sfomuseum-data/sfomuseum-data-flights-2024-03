@@ -2,10 +2,12 @@
   "id": 1897525821,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-03",
+    "date:cessation_upper": "2024-03-03",
     "date:inception_lower": "2024-03-02",
     "date:inception_upper": "2024-03-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-02",
+    "edtf:cessation": "2024-03-03T01:07:00Z",
+    "edtf:inception": "2024-03-02T23:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "THY",
     "lbl:latitude": 37.618874,
     "lbl:longitude": -122.38419,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:base_flight_id": "20240302-D-THY-9591",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "78893889",
+      "swim:gufi": "KO66071700"
+    },
     "wof:country": "US",
     "wof:created": 1709483148,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -90,9 +98,10 @@
       102527513,
       1159285413,
       1763588343,
-      1159285391
+      1159285391,
+      1528104575
     ],
-    "wof:lastmodified": 1709483148,
+    "wof:lastmodified": 1709483323,
     "wof:name": "UA305 (SFO-LAS)",
     "wof:parent_id": 1763588343,
     "wof:placetype": "custom",

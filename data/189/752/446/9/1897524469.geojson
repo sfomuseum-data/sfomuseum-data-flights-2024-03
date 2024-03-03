@@ -2,10 +2,12 @@
   "id": 1897524469,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2024-03-02",
     "date:inception_upper": "2024-03-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-02",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2024-03-02T13:01:34-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "DAL",
     "icao:base_airline": "CAL",
     "lbl:latitude": 37.614792,
     "lbl:longitude": -122.382166,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20240302-D-CAL-9118",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N370NB",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -90,9 +100,10 @@
       102527513,
       1159284261,
       1763588255,
-      1159284153
+      1159284153,
+      1159289407
     ],
-    "wof:lastmodified": 1709482839,
+    "wof:lastmodified": 1709483312,
     "wof:name": "DL1431 (SFO-LAX)",
     "wof:parent_id": 1763588255,
     "wof:placetype": "custom",
