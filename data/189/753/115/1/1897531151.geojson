@@ -2,10 +2,12 @@
   "id": 1897531151,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-03",
-    "date:inception_upper": "2024-03-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-03",
+    "date:cessation_lower": "2024-03-03",
+    "date:cessation_upper": "2024-03-03",
+    "date:inception_lower": "2024-03-04",
+    "date:inception_upper": "2024-03-04",
+    "edtf:cessation": "2024-03-03T14:35:54-08:00",
+    "edtf:inception": "2024-03-04T05:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.07155499999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618102,
     "lbl:longitude": -122.38769,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240303-A-ACA-4052",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N462UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO11762200"
+    },
     "wof:country": "US",
     "wof:created": 1709568845,
     "wof:geomhash": "a4d4dc469296ca0f5ad383dc766835b1",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1897531151,
     "wof:involves": [
-      102527513,
       102525535,
       1159285413,
       1763588285,
-      1159283597
+      1159283597,
+      1159292085,
+      102527513
     ],
-    "wof:lastmodified": 1709568845,
+    "wof:lastmodified": 1709569834,
     "wof:name": "UA649 (RNO-SFO)",
     "wof:parent_id": 1763588285,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1897534801,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-03",
+    "date:cessation_upper": "2024-03-03",
     "date:inception_lower": "2024-03-03",
     "date:inception_upper": "2024-03-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-03",
+    "edtf:cessation": "2024-03-03T13:49:14Z",
+    "edtf:inception": "2024-03-03T09:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B763",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.620533,
     "lbl:longitude": -122.389374,
+    "sfomuseum:aircraft_id": 1159289965,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530049,
     "sfomuseum:base_flight_id": "20240303-D-ANZ-9109",
@@ -39,6 +43,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N668UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "78928949"
+    },
     "wof:country": "US",
     "wof:created": 1709569714,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1897534801,
     "wof:involves": [
-      102530049,
       102527513,
       1159285413,
       1763588319,
-      1159283697
+      1159283697,
+      1159289965,
+      102530049
     ],
-    "wof:lastmodified": 1709569714,
+    "wof:lastmodified": 1709569860,
     "wof:name": "UA649 (SFO-EWR)",
     "wof:parent_id": 1763588319,
     "wof:placetype": "custom",

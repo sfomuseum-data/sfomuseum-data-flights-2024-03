@@ -2,10 +2,12 @@
   "id": 1897531609,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-03",
+    "date:cessation_upper": "2024-03-03",
     "date:inception_lower": "2024-03-03",
     "date:inception_upper": "2024-03-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-03",
+    "edtf:cessation": "2024-03-03T21:19:00Z",
+    "edtf:inception": "2024-03-03T20:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2024-03-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.5616045,
     "geom:longitude": -121.07155499999999,
     "iata:airline": "AA",
+    "icao:aircraft": "B738",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102525535,
     "sfomuseum:departure_id": 102527513,
@@ -35,6 +39,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "79019279"
+    },
     "wof:country": "US",
     "wof:created": 1709568954,
     "wof:geomhash": "414447526a1ddeb77713c60c4ab5a7e4",
@@ -45,12 +52,12 @@
     ],
     "wof:id": 1897531609,
     "wof:involves": [
+      1159289871,
       102525535,
       102527513,
-      1159283849,
-      -1
+      1159283849
     ],
-    "wof:lastmodified": 1709568954,
+    "wof:lastmodified": 1709569839,
     "wof:name": "AA1273 (SFO-RNO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

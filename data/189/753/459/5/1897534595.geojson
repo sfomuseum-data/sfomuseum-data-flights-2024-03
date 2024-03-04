@@ -2,10 +2,12 @@
   "id": 1897534595,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-04",
+    "date:cessation_upper": "2024-03-04",
     "date:inception_lower": "2024-03-03",
     "date:inception_upper": "2024-03-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-03",
+    "edtf:cessation": "2024-03-04T08:30:11Z",
+    "edtf:inception": "2024-03-03T03:59:47-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-03-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 34.381651,
     "geom:longitude": -0.285817999999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102550331,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N28987",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KO62794100"
+    },
     "wof:country": "US",
     "wof:created": 1709569669,
     "wof:geomhash": "014430cde1a85b033fb3b4a447168595",
@@ -45,12 +57,12 @@
     ],
     "wof:id": 1897534595,
     "wof:involves": [
-      102550331,
-      102527513,
       1159285413,
-      -1
+      1159293215,
+      102550331,
+      102527513
     ],
-    "wof:lastmodified": 1709569669,
+    "wof:lastmodified": 1709569846,
     "wof:name": "UA3875 (SFO-PVG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
