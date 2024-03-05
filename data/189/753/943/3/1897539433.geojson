@@ -2,10 +2,12 @@
   "id": 1897539433,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-04",
-    "date:inception_upper": "2024-03-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-04",
+    "date:cessation_lower": "2024-03-05",
+    "date:cessation_upper": "2024-03-05",
+    "date:inception_lower": "2024-03-05",
+    "date:inception_upper": "2024-03-05",
+    "edtf:cessation": "2024-03-05T02:34:00Z",
+    "edtf:inception": "2024-03-05T00:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-03-04",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.6967075,
     "geom:longitude": -116.76460499999999,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530815,
@@ -34,7 +38,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
+    "swim:tail_number": "N810UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "79109701"
+    },
     "wof:country": "US",
     "wof:created": 1709655209,
     "wof:geomhash": "acf2ad4ec949b4135a187e5a7cb03262",
@@ -48,9 +59,9 @@
       102527513,
       102530815,
       1159285413,
-      -1
+      1159289407
     ],
-    "wof:lastmodified": 1709655209,
+    "wof:lastmodified": 1709656241,
     "wof:name": "UA3899 (BZN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1897542869,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-04",
+    "date:cessation_upper": "2024-03-04",
     "date:inception_lower": "2024-03-04",
     "date:inception_upper": "2024-03-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-04",
+    "edtf:cessation": "2024-03-04T06:00:00Z",
+    "edtf:inception": "2024-03-04T01:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -104.324809,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.617835,
     "lbl:longitude": -122.388019,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534155,
     "sfomuseum:base_flight_id": "20240304-D-ANZ-2731",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79002392",
+      "swim:gufi": "KO81305100"
+    },
     "wof:country": "US",
     "wof:created": 1709656026,
     "wof:geomhash": "75b67362ad403f806ec665af17b684aa",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1897542869,
     "wof:involves": [
-      102534155,
       102527513,
       1159285413,
       1763588287,
-      1159283697
+      1159283697,
+      1159292085,
+      102534155
     ],
-    "wof:lastmodified": 1709656026,
+    "wof:lastmodified": 1709656239,
     "wof:name": "UA2262 (SFO-IND)",
     "wof:parent_id": 1763588287,
     "wof:placetype": "custom",
