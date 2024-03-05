@@ -1,0 +1,69 @@
+{
+  "id": 1897539427,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-03-04",
+    "date:inception_upper": "2024-03-04",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-03-04",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2024-03-04",
+    "flysfo:estimated_timestamp": 1709575320,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA3852",
+    "flysfo:gate": "",
+    "flysfo:journey": "MEL-SFO",
+    "flysfo:scheduled_timestamp": 1709575320,
+    "flysfo:timestamp": 1709575320,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,-37.668253,144.843764,37.617990",
+    "geom:latitude": -0.02513150000000053,
+    "geom:longitude": 11.236410499999998,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102557779,
+    "sfomuseum:flight_id": "20240304-A-UAL-3852",
+    "sfomuseum:flight_number": [
+      "UAL3852",
+      "UA3852"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1709655208,
+    "wof:geomhash": "87faaa2af80cb57714136e3a98b5d686",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1897539427
+      }
+    ],
+    "wof:id": 1897539427,
+    "wof:involves": [
+      102527513,
+      102557779,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1709655208,
+    "wof:name": "UA3852 (MEL-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2024-03",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    -37.668253,
+    144.843764,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[144.843764,-37.668253],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
