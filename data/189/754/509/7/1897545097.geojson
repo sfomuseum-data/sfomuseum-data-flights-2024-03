@@ -2,10 +2,12 @@
   "id": 1897545097,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-05",
-    "date:inception_upper": "2024-03-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-05",
+    "date:cessation_lower": "2024-03-06",
+    "date:cessation_upper": "2024-03-06",
+    "date:inception_lower": "2024-03-06",
+    "date:inception_upper": "2024-03-06",
+    "edtf:cessation": "2024-03-06T05:10:00Z",
+    "edtf:inception": "2024-03-06T01:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -109.7109545,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "AAL",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240305-A-BAW-2493",
@@ -53,6 +57,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79096371"
+    },
     "wof:country": "US",
     "wof:created": 1709740864,
     "wof:geomhash": "865973335526f09b753756c305bf4946",
@@ -90,9 +97,10 @@
       102528541,
       1159283849,
       1763588217,
-      1159284021
+      1159284021,
+      1377564297
     ],
-    "wof:lastmodified": 1709740864,
+    "wof:lastmodified": 1709742518,
     "wof:name": "AA1430 (DFW-SFO)",
     "wof:parent_id": 1763588217,
     "wof:placetype": "custom",

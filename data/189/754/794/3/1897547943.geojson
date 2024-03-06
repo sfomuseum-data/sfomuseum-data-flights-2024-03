@@ -2,10 +2,12 @@
   "id": 1897547943,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-05",
-    "date:inception_upper": "2024-03-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-05",
+    "date:cessation_lower": "2024-03-05",
+    "date:cessation_upper": "2024-03-05",
+    "date:inception_lower": "2024-03-06",
+    "date:inception_upper": "2024-03-06",
+    "edtf:cessation": "2024-03-05T13:37:36-08:00",
+    "edtf:inception": "2024-03-06T03:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "AAR",
     "lbl:latitude": 37.618678,
     "lbl:longitude": -122.385955,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240305-A-AAR-6402",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N67846",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79105524",
+      "swim:gufi": "KS03092400"
+    },
     "wof:country": "US",
     "wof:created": 1709741565,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -90,9 +104,10 @@
       102533269,
       1159285413,
       1763588279,
-      1159283917
+      1159283917,
+      1377564285
     ],
-    "wof:lastmodified": 1709741565,
+    "wof:lastmodified": 1709742549,
     "wof:name": "UA350 (SEA-SFO)",
     "wof:parent_id": 1763588279,
     "wof:placetype": "custom",

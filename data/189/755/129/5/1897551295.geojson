@@ -2,10 +2,12 @@
   "id": 1897551295,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-05",
+    "date:cessation_upper": "2024-03-05",
     "date:inception_lower": "2024-03-05",
     "date:inception_upper": "2024-03-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-05",
+    "edtf:cessation": "2024-03-05T21:35:00Z",
+    "edtf:inception": "2024-03-05T03:44:51-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618874,
     "lbl:longitude": -122.38419,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102555307,
     "sfomuseum:base_flight_id": "20240305-D-ANZ-9872",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N77543",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79157073",
+      "swim:gufi": "KO55035300"
+    },
     "wof:country": "US",
     "wof:created": 1709742344,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1897551295,
     "wof:involves": [
-      102555307,
-      102527513,
       1159285413,
       1763588343,
-      1159283697
+      1159283697,
+      1528104577,
+      102555307,
+      102527513
     ],
-    "wof:lastmodified": 1709742344,
+    "wof:lastmodified": 1709742531,
     "wof:name": "UA2051 (SFO-YVR)",
     "wof:parent_id": 1763588343,
     "wof:placetype": "custom",

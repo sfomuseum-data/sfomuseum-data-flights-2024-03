@@ -2,10 +2,12 @@
   "id": 1897546245,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-05",
+    "date:cessation_upper": "2024-03-05",
     "date:inception_lower": "2024-03-05",
     "date:inception_upper": "2024-03-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-05",
+    "edtf:cessation": "2024-03-05T09:43:45-08:00",
+    "edtf:inception": "2024-03-05T23:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -116.5547415,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B737",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.617092,
     "lbl:longitude": -122.381656,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240305-A-AAL-9356",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N611AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79171717"
+    },
     "wof:country": "US",
     "wof:created": 1709741158,
     "wof:geomhash": "8649ee81ac1d01facd07821b56f3d6b7",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1897546245,
     "wof:involves": [
+      1159289869,
       102527513,
       102534217,
       1159283813,
       1763588131,
       1159283849
     ],
-    "wof:lastmodified": 1709741158,
+    "wof:lastmodified": 1709742528,
     "wof:name": "AS707 (JAC-SFO)",
     "wof:parent_id": 1763588131,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1897547953,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-05",
+    "date:cessation_upper": "2024-03-05",
     "date:inception_lower": "2024-03-05",
     "date:inception_upper": "2024-03-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-05",
+    "edtf:cessation": "2024-03-05T23:16:00Z",
+    "edtf:inception": "2024-03-05T21:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-03-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 43.40566,
     "geom:longitude": -122.7750715,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102555307,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "79162248",
+      "swim:gufi": "KS70859300"
+    },
     "wof:country": "US",
     "wof:created": 1709741567,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
@@ -45,12 +57,12 @@
     ],
     "wof:id": 1897547953,
     "wof:involves": [
+      1159289871,
       102527513,
       102555307,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1709741567,
+    "wof:lastmodified": 1709742549,
     "wof:name": "UA3942 (YVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

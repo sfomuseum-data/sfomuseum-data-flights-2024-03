@@ -2,10 +2,12 @@
   "id": 1897545111,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-05",
-    "date:inception_upper": "2024-03-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-05",
+    "date:cessation_lower": "2024-03-05",
+    "date:cessation_upper": "2024-03-05",
+    "date:inception_lower": "2024-03-06",
+    "date:inception_upper": "2024-03-06",
+    "edtf:cessation": "2024-03-05T14:17:08-08:00",
+    "edtf:inception": "2024-03-06T00:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "icao:base_airline": "RAM",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240305-A-RAM-5024",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N110AN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79177333",
+      "swim:gufi": "KN74748300"
+    },
     "wof:country": "US",
     "wof:created": 1709740868,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1897545111,
     "wof:involves": [
-      102527513,
       102534365,
       1159283849,
       1763588207,
-      1159285081
+      1159285081,
+      1159289411,
+      102527513
     ],
-    "wof:lastmodified": 1709740868,
+    "wof:lastmodified": 1709742519,
     "wof:name": "AA2305 (JFK-SFO)",
     "wof:parent_id": 1763588207,
     "wof:placetype": "custom",

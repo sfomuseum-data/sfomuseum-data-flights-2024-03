@@ -2,10 +2,12 @@
   "id": 1897547955,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-06",
+    "date:cessation_upper": "2024-03-06",
     "date:inception_lower": "2024-03-05",
     "date:inception_upper": "2024-03-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-05",
+    "edtf:cessation": "2024-03-06T00:21:00Z",
+    "edtf:inception": "2024-03-05T22:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-03-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.6967075,
     "geom:longitude": -116.76460499999999,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530815,
@@ -35,6 +39,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "79186165"
+    },
     "wof:country": "US",
     "wof:created": 1709741568,
     "wof:geomhash": "acf2ad4ec949b4135a187e5a7cb03262",
@@ -45,12 +52,12 @@
     ],
     "wof:id": 1897547955,
     "wof:involves": [
+      1159289407,
       102527513,
       102530815,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1709741568,
+    "wof:lastmodified": 1709742549,
     "wof:name": "UA3945 (BZN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
