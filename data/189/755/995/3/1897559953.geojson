@@ -1,0 +1,69 @@
+{
+  "id": 1897559953,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-03-06",
+    "date:inception_upper": "2024-03-06",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-03-06",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2024-03-06",
+    "flysfo:estimated_timestamp": 1709746080,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA6969",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-FAT",
+    "flysfo:scheduled_timestamp": 1709743500,
+    "flysfo:timestamp": 1709746080,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,36.768728,-119.721272,37.617990",
+    "geom:latitude": 37.193359,
+    "geom:longitude": -121.0461075,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102530717,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20240306-D-UAL-6969",
+    "sfomuseum:flight_number": [
+      "UAL6969",
+      "UA6969"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1709828937,
+    "wof:geomhash": "7027f9178c7d77a5f6f9a377b7a1bb37",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1897559953
+      }
+    ],
+    "wof:id": 1897559953,
+    "wof:involves": [
+      102530717,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1709828937,
+    "wof:name": "UA6969 (SFO-FAT)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2024-03",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    36.768728,
+    -119.721272,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-119.721272,36.768728]],"type":"MultiPoint"}
+}
