@@ -2,10 +2,12 @@
   "id": 1897559525,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-06",
-    "date:inception_upper": "2024-03-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-06",
+    "date:cessation_lower": "2024-03-07",
+    "date:cessation_upper": "2024-03-07",
+    "date:inception_lower": "2024-03-07",
+    "date:inception_upper": "2024-03-07",
+    "edtf:cessation": "2024-03-07T05:47:00Z",
+    "edtf:inception": "2024-03-07T00:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.620533,
     "lbl:longitude": -122.389374,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533997,
     "sfomuseum:base_flight_id": "20240306-D-ANZ-9142",
@@ -53,6 +57,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79190845"
+    },
     "wof:country": "US",
     "wof:created": 1709828841,
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
@@ -90,9 +97,10 @@
       102527513,
       1159285413,
       1763588319,
-      1159283697
+      1159283697,
+      1159289945
     ],
-    "wof:lastmodified": 1709828841,
+    "wof:lastmodified": 1709829072,
     "wof:name": "UA1509 (SFO-HNL)",
     "wof:parent_id": 1763588319,
     "wof:placetype": "custom",

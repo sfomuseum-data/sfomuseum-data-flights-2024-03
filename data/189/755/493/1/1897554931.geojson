@@ -2,10 +2,12 @@
   "id": 1897554931,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-06",
-    "date:inception_upper": "2024-03-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-06",
+    "date:cessation_lower": "2024-03-06",
+    "date:cessation_upper": "2024-03-06",
+    "date:inception_lower": "2024-03-07",
+    "date:inception_upper": "2024-03-07",
+    "edtf:cessation": "2024-03-06T14:57:09-08:00",
+    "edtf:inception": "2024-03-07T05:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614759,
     "lbl:longitude": -122.382707,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240306-A-AMX-4168",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N373DA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79207435",
+      "swim:gufi": "KU15960500"
+    },
     "wof:country": "US",
     "wof:created": 1709827716,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1897554931,
     "wof:involves": [
-      102527513,
       102527363,
       1159284261,
       1763588245,
-      1159283539
+      1159283539,
+      1159289871,
+      102527513
     ],
-    "wof:lastmodified": 1709827716,
+    "wof:lastmodified": 1709829080,
     "wof:name": "DL2023 (SLC-SFO)",
     "wof:parent_id": 1763588245,
     "wof:placetype": "custom",
