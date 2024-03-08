@@ -2,10 +2,12 @@
   "id": 1897569617,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-08",
+    "date:cessation_upper": "2024-03-08",
     "date:inception_lower": "2024-03-07",
     "date:inception_upper": "2024-03-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-07",
+    "edtf:cessation": "2024-03-08T19:59:17Z",
+    "edtf:inception": "2024-03-07T13:36:26-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": 14.401222499999996,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "VOZ",
     "lbl:latitude": 37.617321,
     "lbl:longitude": -122.389477,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102557783,
     "sfomuseum:base_flight_id": "20240307-D-VOZ-8589",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N78005",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO06496600"
+    },
     "wof:country": "US",
     "wof:created": 1709915399,
     "wof:geomhash": "148b50b9c1c42c575a8cdcaf5b598e8f",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1897569617,
     "wof:involves": [
+      1159289985,
       102557783,
       102527513,
       1159285413,
       1763588437,
       1159285485
     ],
-    "wof:lastmodified": 1709915399,
+    "wof:lastmodified": 1709915536,
     "wof:name": "UA829 (SFO-SYD)",
     "wof:parent_id": 1763588437,
     "wof:placetype": "custom",

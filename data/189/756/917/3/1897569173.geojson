@@ -2,10 +2,12 @@
   "id": 1897569173,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-08",
+    "date:cessation_upper": "2024-03-08",
     "date:inception_lower": "2024-03-07",
     "date:inception_upper": "2024-03-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-07",
+    "edtf:cessation": "2024-03-08T04:20:00Z",
+    "edtf:inception": "2024-03-07T11:20:08-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.1186115,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.618339,
     "lbl:longitude": -122.387219,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534161,
     "sfomuseum:base_flight_id": "20240307-D-DLH-7594",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N848UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO04601600"
+    },
     "wof:country": "US",
     "wof:created": 1709915297,
     "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1897569173,
     "wof:involves": [
+      1159286015,
+      1159289407,
       102534161,
       102527513,
       1159285413,
-      1763588289,
-      1159286015
+      1763588289
     ],
-    "wof:lastmodified": 1709915297,
+    "wof:lastmodified": 1709915546,
     "wof:name": "UA1632 (SFO-SNA)",
     "wof:parent_id": 1763588289,
     "wof:placetype": "custom",
