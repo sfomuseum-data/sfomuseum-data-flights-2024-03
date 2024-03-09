@@ -2,10 +2,12 @@
   "id": 1897573267,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-08",
-    "date:inception_upper": "2024-03-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-08",
+    "date:cessation_lower": "2024-03-08",
+    "date:cessation_upper": "2024-03-08",
+    "date:inception_lower": "2024-03-09",
+    "date:inception_upper": "2024-03-09",
+    "edtf:cessation": "2024-03-08T13:37:04-08:00",
+    "edtf:inception": "2024-03-09T03:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.484166,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B737",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240308-A-AAL-7543",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N612AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79400132"
+    },
     "wof:country": "US",
     "wof:created": 1710000404,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1897573267,
     "wof:involves": [
+      1159283849,
+      1159289869,
       102527513,
       102532251,
       1159283813,
-      1763588145,
-      1159283849
+      1763588145
     ],
-    "wof:lastmodified": 1710000404,
+    "wof:lastmodified": 1710002065,
     "wof:name": "AS1295 (PDX-SFO)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",

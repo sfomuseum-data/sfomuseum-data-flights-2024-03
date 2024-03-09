@@ -2,10 +2,12 @@
   "id": 1897578829,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-09",
+    "date:cessation_upper": "2024-03-09",
     "date:inception_lower": "2024-03-08",
     "date:inception_upper": "2024-03-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-08",
+    "edtf:cessation": "2024-03-09T11:52:00Z",
+    "edtf:inception": "2024-03-08T07:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.2547305,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530841,
     "sfomuseum:base_flight_id": "20240308-D-ANZ-9447",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37508",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79406762",
+      "swim:gufi": "KO15853700"
+    },
     "wof:country": "US",
     "wof:created": 1710001860,
     "wof:geomhash": "2155b19e54308f477f2a379762b2f6c8",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1897578829,
     "wof:involves": [
+      1528104577,
       102530841,
       102527513,
       1159285413,
       1763588149,
       1159283697
     ],
-    "wof:lastmodified": 1710001860,
+    "wof:lastmodified": 1710002086,
     "wof:name": "UA2142 (SFO-FLL)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",

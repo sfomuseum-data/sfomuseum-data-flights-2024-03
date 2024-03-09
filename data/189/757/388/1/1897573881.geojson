@@ -2,10 +2,12 @@
   "id": 1897573881,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-08",
+    "date:cessation_upper": "2024-03-08",
     "date:inception_lower": "2024-03-08",
     "date:inception_upper": "2024-03-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-08",
+    "edtf:cessation": "2024-03-08T23:13:00Z",
+    "edtf:inception": "2024-03-08T18:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2024-03-08",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.918425,
     "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "lbl:latitude": 37.614759,
     "lbl:longitude": -122.382707,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102525635,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N909DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79452743",
+      "swim:gufi": "KC63051600"
+    },
     "wof:country": "US",
     "wof:created": 1710000580,
     "wof:geomhash": "a23858bb4e93419105e139a22bd92749",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1897573881,
     "wof:involves": [
+      1377564285,
       102527513,
       102525635,
       1159284261,
       1763588245
     ],
-    "wof:lastmodified": 1710000580,
+    "wof:lastmodified": 1710002092,
     "wof:name": "DL445 (DTW-SFO)",
     "wof:parent_id": 1763588245,
     "wof:placetype": "custom",

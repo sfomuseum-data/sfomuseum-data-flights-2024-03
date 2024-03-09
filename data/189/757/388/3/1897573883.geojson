@@ -2,10 +2,12 @@
   "id": 1897573883,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-08",
+    "date:cessation_upper": "2024-03-08",
     "date:inception_lower": "2024-03-08",
     "date:inception_upper": "2024-03-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-08",
+    "edtf:cessation": "2024-03-08T18:21:23Z",
+    "edtf:inception": "2024-03-08T14:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2024-03-08",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.918425,
     "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102525635,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N881DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79425623"
+    },
     "wof:country": "US",
     "wof:created": 1710000581,
     "wof:geomhash": "a23858bb4e93419105e139a22bd92749",
@@ -84,9 +96,10 @@
       102527513,
       102525635,
       1159284261,
-      1763588243
+      1763588243,
+      1377564285
     ],
-    "wof:lastmodified": 1710000581,
+    "wof:lastmodified": 1710002067,
     "wof:name": "DL450 (DTW-SFO)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

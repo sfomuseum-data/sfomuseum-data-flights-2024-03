@@ -2,10 +2,12 @@
   "id": 1897578777,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-09",
+    "date:cessation_upper": "2024-03-09",
     "date:inception_lower": "2024-03-08",
     "date:inception_upper": "2024-03-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-08",
+    "edtf:cessation": "2024-03-09T02:59:04Z",
+    "edtf:inception": "2024-03-08T09:51:25-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61836,
     "lbl:longitude": -122.393229,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:base_flight_id": "20240308-D-ACA-3721",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37549",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO78347600"
+    },
     "wof:country": "US",
     "wof:created": 1710001846,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1897578777,
     "wof:involves": [
+      1528104577,
       102527209,
       102527513,
       1159285413,
       1763588455,
       1159283597
     ],
-    "wof:lastmodified": 1710001846,
+    "wof:lastmodified": 1710002085,
     "wof:name": "UA1896 (SFO-LAS)",
     "wof:parent_id": 1763588455,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1897577103,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-09",
+    "date:cessation_upper": "2024-03-09",
     "date:inception_lower": "2024-03-08",
     "date:inception_upper": "2024-03-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-08",
+    "edtf:cessation": "2024-03-09T01:28:41Z",
+    "edtf:inception": "2024-03-08T19:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79461404"
+    },
     "wof:country": "US",
     "wof:created": 1710001425,
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
@@ -92,7 +97,7 @@
       1763588141,
       1159283849
     ],
-    "wof:lastmodified": 1710001425,
+    "wof:lastmodified": 1710002080,
     "wof:name": "AS877 (SFO-HNL)",
     "wof:parent_id": 1763588141,
     "wof:placetype": "custom",
