@@ -2,10 +2,12 @@
   "id": 1897586923,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-10",
+    "date:cessation_upper": "2024-03-10",
     "date:inception_lower": "2024-03-09",
     "date:inception_upper": "2024-03-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-09",
+    "edtf:cessation": "2024-03-10T08:13:16Z",
+    "edtf:inception": "2024-03-09T19:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "BR",
     "flysfo:date": "2024-03-09",
@@ -34,7 +36,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "79640132"
+    },
     "wof:country": "US",
     "wof:created": 1710087870,
     "wof:geomhash": "ec4a8fe4d0e09d37ae50bf109072b003",
@@ -50,7 +59,7 @@
       1159284349,
       -1
     ],
-    "wof:lastmodified": 1710087870,
+    "wof:lastmodified": 1710088330,
     "wof:name": "BR629 (SFO-TPE)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
