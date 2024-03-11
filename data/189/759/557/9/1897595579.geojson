@@ -2,10 +2,12 @@
   "id": 1897595579,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-10",
-    "date:inception_upper": "2024-03-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-10",
+    "date:cessation_lower": "2024-03-11",
+    "date:cessation_upper": "2024-03-11",
+    "date:inception_lower": "2024-03-11",
+    "date:inception_upper": "2024-03-11",
+    "edtf:cessation": "2024-03-11T01:29:04Z",
+    "edtf:inception": "2024-03-11T00:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:base_flight_id": "20240310-D-AAL-7494",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N462AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79798615",
+      "swim:gufi": "KO81433100"
+    },
     "wof:country": "US",
     "wof:created": 1710174019,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1897595579,
     "wof:involves": [
+      1377564285,
       102527209,
       102527513,
       1159283813,
       1763588145,
       1159283849
     ],
-    "wof:lastmodified": 1710174019,
+    "wof:lastmodified": 1710174617,
     "wof:name": "AS706 (SFO-LAS)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",

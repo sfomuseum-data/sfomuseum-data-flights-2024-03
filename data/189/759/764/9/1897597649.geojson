@@ -2,10 +2,12 @@
   "id": 1897597649,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-11",
+    "date:cessation_upper": "2024-03-11",
     "date:inception_lower": "2024-03-10",
     "date:inception_upper": "2024-03-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-10",
+    "edtf:cessation": "2024-03-11T07:40:39Z",
+    "edtf:inception": "2024-03-10T22:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -61.410693,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "AUA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102556703,
     "sfomuseum:base_flight_id": "20240310-D-AUA-7856",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N799UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79682668",
+      "swim:gufi": "KO65104100"
+    },
     "wof:country": "US",
     "wof:created": 1710174506,
     "wof:geomhash": "86f41e039827d60bcd1a72801f72cbc2",
@@ -90,9 +103,10 @@
       102527513,
       1159285413,
       1763588463,
-      1159283947
+      1159283947,
+      1159289985
     ],
-    "wof:lastmodified": 1710174506,
+    "wof:lastmodified": 1710174624,
     "wof:name": "UA901 (SFO-LHR)",
     "wof:parent_id": 1763588463,
     "wof:placetype": "custom",
