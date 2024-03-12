@@ -2,10 +2,12 @@
   "id": 1897605569,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-11",
-    "date:inception_upper": "2024-03-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-11",
+    "date:cessation_lower": "2024-03-12",
+    "date:cessation_upper": "2024-03-12",
+    "date:inception_lower": "2024-03-12",
+    "date:inception_upper": "2024-03-12",
+    "edtf:cessation": "2024-03-12T01:55:00Z",
+    "edtf:inception": "2024-03-12T00:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2024-03-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "F9",
+    "icao:aircraft": "A21N",
     "icao:airline": "FFT",
     "lbl:latitude": 37.611664,
     "lbl:longitude": -122.390495,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N621FR",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79803550",
+      "swim:gufi": "KO81844200"
+    },
     "wof:country": "US",
     "wof:created": 1710260550,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1897605569,
     "wof:involves": [
+      1763588427,
+      1377564297,
       102526751,
       102527513,
-      1159284401,
-      1763588427
+      1159284401
     ],
-    "wof:lastmodified": 1710260550,
+    "wof:lastmodified": 1710260991,
     "wof:name": "F92624 (SFO-PHX)",
     "wof:parent_id": 1763588427,
     "wof:placetype": "custom",

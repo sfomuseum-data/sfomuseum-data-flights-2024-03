@@ -2,10 +2,12 @@
   "id": 1897603169,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-11",
+    "date:cessation_upper": "2024-03-11",
     "date:inception_lower": "2024-03-11",
     "date:inception_upper": "2024-03-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-11",
+    "edtf:cessation": "2024-03-11T20:02:00Z",
+    "edtf:inception": "2024-03-11T10:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": 6.435532500000001,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240311-A-ANA-7070",
@@ -39,7 +43,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "79728585",
+      "swim:gufi": "KO21953200"
+    },
     "wof:country": "US",
     "wof:created": 1710260000,
     "wof:geomhash": "a641cfa97e5d709c9877b45a6ec29f09",
@@ -50,13 +61,13 @@
     ],
     "wof:id": 1897603169,
     "wof:involves": [
+      1159289985,
       102527513,
       102541661,
       1159285413,
-      -1,
       1159283875
     ],
-    "wof:lastmodified": 1710260000,
+    "wof:lastmodified": 1710260984,
     "wof:name": "UA34 (KIX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

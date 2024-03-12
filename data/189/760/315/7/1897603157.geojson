@@ -2,10 +2,12 @@
   "id": 1897603157,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-11",
+    "date:cessation_upper": "2024-03-11",
     "date:inception_lower": "2024-03-11",
     "date:inception_upper": "2024-03-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-11",
+    "edtf:cessation": "2024-03-11T10:49:16-07:00",
+    "edtf:inception": "2024-03-11T20:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-03-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.8087165,
     "geom:longitude": -102.62808,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618339,
     "lbl:longitude": -122.387219,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532255,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N488UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KI59634200"
+    },
     "wof:country": "US",
     "wof:created": 1710259998,
     "wof:geomhash": "980d68d8d28509c0742a6b2a7abf5f67",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1897603157,
     "wof:involves": [
-      102527513,
-      102532255,
       1159285413,
-      1763588289
+      1763588289,
+      1159292085,
+      102527513,
+      102532255
     ],
-    "wof:lastmodified": 1710259998,
+    "wof:lastmodified": 1710260983,
     "wof:name": "UA283 (CMH-SFO)",
     "wof:parent_id": 1763588289,
     "wof:placetype": "custom",

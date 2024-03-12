@@ -2,10 +2,12 @@
   "id": 1897604977,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-11",
+    "date:cessation_upper": "2024-03-11",
     "date:inception_lower": "2024-03-11",
     "date:inception_upper": "2024-03-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-11",
+    "edtf:cessation": "2024-03-11T19:53:06Z",
+    "edtf:inception": "2024-03-11T15:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.83923999999999,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61756,
     "lbl:longitude": -122.381052,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102533657,
     "sfomuseum:base_flight_id": "20240311-D-AAL-9375",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N474AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79752058"
+    },
     "wof:country": "US",
     "wof:created": 1710260412,
     "wof:geomhash": "33c9625a4901edf29154e5ec4b308b8b",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1897604977,
     "wof:involves": [
-      102533657,
-      102527513,
       1159283813,
       1763588143,
-      1159283849
+      1159283849,
+      1377564285,
+      102533657,
+      102527513
     ],
-    "wof:lastmodified": 1710260412,
+    "wof:lastmodified": 1710260989,
     "wof:name": "AS462 (SFO-MCO)",
     "wof:parent_id": 1763588143,
     "wof:placetype": "custom",

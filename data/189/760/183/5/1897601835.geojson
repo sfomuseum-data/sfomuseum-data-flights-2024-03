@@ -2,10 +2,12 @@
   "id": 1897601835,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-11",
-    "date:inception_upper": "2024-03-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-11",
+    "date:cessation_lower": "2024-03-11",
+    "date:cessation_upper": "2024-03-11",
+    "date:inception_lower": "2024-03-12",
+    "date:inception_upper": "2024-03-12",
+    "edtf:cessation": "2024-03-11T16:40:10-07:00",
+    "edtf:inception": "2024-03-12T00:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B763",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1159289965,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240311-A-AFR-2818",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N175DZ",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79802081",
+      "swim:gufi": "KN80747200"
+    },
     "wof:country": "US",
     "wof:created": 1710259685,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -90,9 +104,10 @@
       102534365,
       1159284261,
       1763588247,
-      1159283627
+      1159283627,
+      1159289965
     ],
-    "wof:lastmodified": 1710259685,
+    "wof:lastmodified": 1710260978,
     "wof:name": "DL667 (JFK-SFO)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",

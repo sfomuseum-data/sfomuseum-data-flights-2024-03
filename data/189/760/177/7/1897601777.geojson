@@ -2,10 +2,12 @@
   "id": 1897601777,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-11",
-    "date:inception_upper": "2024-03-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-11",
+    "date:cessation_lower": "2024-03-11",
+    "date:cessation_upper": "2024-03-11",
+    "date:inception_lower": "2024-03-12",
+    "date:inception_upper": "2024-03-12",
+    "edtf:cessation": "2024-03-11T16:45:21-07:00",
+    "edtf:inception": "2024-03-12T03:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -107.78563,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240311-A-KLM-5870",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N884DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79716194",
+      "swim:gufi": "KP06955301"
+    },
     "wof:country": "US",
     "wof:created": 1710259672,
     "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1897601777,
     "wof:involves": [
+      1377564285,
       102527513,
       102531131,
       1159284261,
       1763588249,
       1159284613
     ],
-    "wof:lastmodified": 1710259672,
+    "wof:lastmodified": 1710260977,
     "wof:name": "DL1012 (MSP-SFO)",
     "wof:parent_id": 1763588249,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1897606661,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-11",
+    "date:cessation_upper": "2024-03-11",
     "date:inception_lower": "2024-03-11",
     "date:inception_upper": "2024-03-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-11",
+    "edtf:cessation": "2024-03-11T18:45:00Z",
+    "edtf:inception": "2024-03-11T18:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.104038,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618339,
     "lbl:longitude": -122.387219,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527337,
     "sfomuseum:base_flight_id": "20240311-D-ACA-4058",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N413UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO57243200"
+    },
     "wof:country": "US",
     "wof:created": 1710260802,
     "wof:geomhash": "1d9a5fa2c9575ebb155d9645f1016c57",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1897606661,
     "wof:involves": [
+      1159292085,
       102527337,
       102527513,
       1159285413,
       1763588289,
       1159283597
     ],
-    "wof:lastmodified": 1710260802,
+    "wof:lastmodified": 1710261011,
     "wof:name": "UA2367 (SFO-SBA)",
     "wof:parent_id": 1763588289,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1897606759,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-11",
+    "date:cessation_upper": "2024-03-11",
     "date:inception_lower": "2024-03-11",
     "date:inception_upper": "2024-03-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-11",
+    "edtf:cessation": "2024-03-11T16:19:00Z",
+    "edtf:inception": "2024-03-11T14:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-03-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 43.40566,
     "geom:longitude": -122.7750715,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102555307,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N494UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "79820075",
+      "swim:gufi": "KO40399200"
+    },
     "wof:country": "US",
     "wof:created": 1710260825,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -45,12 +59,12 @@
     ],
     "wof:id": 1897606759,
     "wof:involves": [
-      102555307,
       102527513,
       1159285413,
-      -1
+      1159292085,
+      102555307
     ],
-    "wof:lastmodified": 1710260825,
+    "wof:lastmodified": 1710260995,
     "wof:name": "UA3945 (SFO-YVR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1897602217,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-11",
+    "date:cessation_upper": "2024-03-11",
     "date:inception_lower": "2024-03-11",
     "date:inception_upper": "2024-03-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-11",
+    "edtf:cessation": "2024-03-11T05:21:57-07:00",
+    "edtf:inception": "2024-03-11T13:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "B6",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "JBU",
     "icao:base_airline": "HAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240311-A-HAL-2229",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N984JB",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79742449",
+      "swim:gufi": "KB44070200"
+    },
     "wof:country": "US",
     "wof:created": 1710259776,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1897602217,
     "wof:involves": [
-      102527513,
       102530741,
       1159284583,
       1763588181,
-      1159284489
+      1159284489,
+      1159289411,
+      102527513
     ],
-    "wof:lastmodified": 1710259776,
+    "wof:lastmodified": 1710260979,
     "wof:name": "B61833 (BOS-SFO)",
     "wof:parent_id": 1763588181,
     "wof:placetype": "custom",
