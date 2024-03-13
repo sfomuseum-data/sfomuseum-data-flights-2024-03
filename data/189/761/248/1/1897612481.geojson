@@ -2,10 +2,12 @@
   "id": 1897612481,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-12",
+    "date:cessation_upper": "2024-03-12",
     "date:inception_lower": "2024-03-12",
     "date:inception_upper": "2024-03-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-12",
+    "edtf:cessation": "2024-03-12T10:28:27-07:00",
+    "edtf:inception": "2024-03-12T20:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.006986,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618102,
     "lbl:longitude": -122.38769,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240312-A-ANZ-9116",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N879UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79887912",
+      "swim:gufi": "KH60958300"
+    },
     "wof:country": "US",
     "wof:created": 1710346399,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1897612481,
     "wof:involves": [
+      1159289407,
       102527513,
       102521851,
       1159285413,
       1763588285,
       1159283697
     ],
-    "wof:lastmodified": 1710346399,
+    "wof:lastmodified": 1710347419,
     "wof:name": "UA298 (AUS-SFO)",
     "wof:parent_id": 1763588285,
     "wof:placetype": "custom",
