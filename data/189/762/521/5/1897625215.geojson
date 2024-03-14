@@ -2,10 +2,12 @@
   "id": 1897625215,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-13",
+    "date:cessation_upper": "2024-03-13",
     "date:inception_lower": "2024-03-13",
     "date:inception_upper": "2024-03-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-13",
+    "edtf:cessation": "2024-03-13T00:49:00Z",
+    "edtf:inception": "2024-03-13T00:14:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.07155499999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "AAR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102525535,
     "sfomuseum:base_flight_id": "20240313-D-AAR-6345",
@@ -39,6 +43,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N427UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "79907833"
+    },
     "wof:country": "US",
     "wof:created": 1710433635,
     "wof:geomhash": "414447526a1ddeb77713c60c4ab5a7e4",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1897625215,
     "wof:involves": [
+      1159283917,
+      1159292085,
       102525535,
       102527513,
       1159285413,
-      1763588463,
-      1159283917
+      1763588463
     ],
-    "wof:lastmodified": 1710433635,
+    "wof:lastmodified": 1710433850,
     "wof:name": "UA1615 (SFO-RNO)",
     "wof:parent_id": 1763588463,
     "wof:placetype": "custom",
