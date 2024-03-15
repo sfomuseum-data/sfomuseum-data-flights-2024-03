@@ -2,10 +2,12 @@
   "id": 1897631453,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-14",
-    "date:inception_upper": "2024-03-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-14",
+    "date:cessation_lower": "2024-03-14",
+    "date:cessation_upper": "2024-03-14",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2024-03-14T10:59:47-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-03-14",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.8087165,
     "geom:longitude": -102.62808,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620929,
     "lbl:longitude": -122.390272,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532255,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N473UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1897631453,
     "wof:involves": [
-      102527513,
       102532255,
       1159285413,
-      1763588325
+      1763588325,
+      1159292085,
+      102527513
     ],
-    "wof:lastmodified": 1710519321,
+    "wof:lastmodified": 1710520525,
     "wof:name": "UA283 (CMH-SFO)",
     "wof:parent_id": 1763588325,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1897634527,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2024-03-14",
     "date:inception_upper": "2024-03-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-14",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2024-03-14T14:41:50-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "QF",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": 14.401222499999996,
     "iata:airline": "QF",
     "iata:base_airline": "",
+    "icao:aircraft": "B789",
     "icao:airline": "QFA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.612674,
     "lbl:longitude": -122.389174,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285043,
     "sfomuseum:arrival_id": 102557783,
     "sfomuseum:base_flight_id": "20240314-D-AAL-7396",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "VHZNF",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -90,9 +98,10 @@
       102527513,
       1159285043,
       1763588411,
-      1159283849
+      1159283849,
+      1159293215
     ],
-    "wof:lastmodified": 1710520135,
+    "wof:lastmodified": 1710520533,
     "wof:name": "QF74 (SFO-SYD)",
     "wof:parent_id": 1763588411,
     "wof:placetype": "custom",
