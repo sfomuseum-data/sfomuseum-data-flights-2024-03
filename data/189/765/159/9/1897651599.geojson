@@ -1,0 +1,69 @@
+{
+  "id": 1897651599,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-03-16",
+    "date:inception_upper": "2024-03-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-03-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "QR",
+    "flysfo:date": "2024-03-16",
+    "flysfo:estimated_timestamp": 1710632640,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "QR67",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-LGW",
+    "flysfo:scheduled_timestamp": 1710629400,
+    "flysfo:timestamp": 1710632640,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-0.183008,51.144421",
+    "geom:latitude": 44.3812055,
+    "geom:longitude": -61.2769755,
+    "iata:airline": "QR",
+    "icao:airline": "QTR",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159286153,
+    "sfomuseum:arrival_id": 102556713,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20240316-D-QTR-67",
+    "sfomuseum:flight_number": [
+      "QTR67",
+      "QR67"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1710692701,
+    "wof:geomhash": "bad2a9df282a9dbb1901c62245df7f6a",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1897651599
+      }
+    ],
+    "wof:id": 1897651599,
+    "wof:involves": [
+      102556713,
+      102527513,
+      1159286153,
+      -1
+    ],
+    "wof:lastmodified": 1710692701,
+    "wof:name": "QR67 (SFO-LGW)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2024-03",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -0.183008,
+    51.144421
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-0.183008,51.144421]],"type":"MultiPoint"}
+}
