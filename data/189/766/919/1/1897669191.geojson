@@ -1,0 +1,69 @@
+{
+  "id": 1897669191,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-03-18",
+    "date:inception_upper": "2024-03-18",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-03-18",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2024-03-18",
+    "flysfo:estimated_timestamp": 1710828660,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA8115",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-TPA",
+    "flysfo:scheduled_timestamp": 1710827700,
+    "flysfo:timestamp": 1710828660,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,27.972892,-82.530928,37.617990",
+    "geom:latitude": 32.795441,
+    "geom:longitude": -102.4509355,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102533243,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20240318-D-UAL-8115",
+    "sfomuseum:flight_number": [
+      "UAL8115",
+      "UA8115"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1710865919,
+    "wof:geomhash": "eed3ad030b4c80153105b635669626b5",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1897669191
+      }
+    ],
+    "wof:id": 1897669191,
+    "wof:involves": [
+      102533243,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1710865919,
+    "wof:name": "UA8115 (SFO-TPA)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2024-03",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    27.972892,
+    -82.530928,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-82.530928,27.972892]],"type":"MultiPoint"}
+}
