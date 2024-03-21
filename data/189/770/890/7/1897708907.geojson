@@ -1,0 +1,69 @@
+{
+  "id": 1897708907,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-03-20",
+    "date:inception_upper": "2024-03-20",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-03-20",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2024-03-20",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA2211",
+    "flysfo:gate": "",
+    "flysfo:journey": "CVG-SFO",
+    "flysfo:scheduled_timestamp": 1710919920,
+    "flysfo:timestamp": 1710919920,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-84.657144,39.054422",
+    "geom:latitude": 38.336206000000004,
+    "geom:longitude": -103.5140435,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102528187,
+    "sfomuseum:flight_id": "20240320-A-UAL-2211",
+    "sfomuseum:flight_number": [
+      "UAL2211",
+      "UA2211"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1711037624,
+    "wof:geomhash": "772e5110aaf1e095142ff9199bc6ebaa",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1897708907
+      }
+    ],
+    "wof:id": 1897708907,
+    "wof:involves": [
+      102527513,
+      102528187,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1711037624,
+    "wof:name": "UA2211 (CVG-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2024-03",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -84.657144,
+    39.054422
+  ],
+  "geometry": {"coordinates":[[-84.657144,39.054422],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
