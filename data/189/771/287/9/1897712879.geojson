@@ -2,10 +2,12 @@
   "id": 1897712879,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-20",
-    "date:inception_upper": "2024-03-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-20",
+    "date:cessation_lower": "2024-03-21",
+    "date:cessation_upper": "2024-03-21",
+    "date:inception_lower": "2024-03-21",
+    "date:inception_upper": "2024-03-21",
+    "edtf:cessation": "2024-03-21T22:44:47Z",
+    "edtf:inception": "2024-03-20T20:16:53-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": 26.208867500000004,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.617615,
     "lbl:longitude": -122.390247,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102552389,
     "sfomuseum:base_flight_id": "20240320-D-DLH-9323",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N2749U",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO21993500"
+    },
     "wof:country": "US",
     "wof:created": 1711038561,
     "wof:geomhash": "0a41093e5d82882db018a6f46a3ef58a",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1897712879,
     "wof:involves": [
+      1159289993,
       102552389,
       102527513,
       1159285413,
       1763588441,
       1159286015
     ],
-    "wof:lastmodified": 1711038561,
+    "wof:lastmodified": 1711038712,
     "wof:name": "UA917 (SFO-AKL)",
     "wof:parent_id": 1763588441,
     "wof:placetype": "custom",
