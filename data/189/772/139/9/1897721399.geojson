@@ -1,0 +1,69 @@
+{
+  "id": 1897721399,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-03-21",
+    "date:inception_upper": "2024-03-21",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-03-21",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2024-03-21",
+    "flysfo:estimated_timestamp": 1711087080,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA8282",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-ATL",
+    "flysfo:scheduled_timestamp": 1711085700,
+    "flysfo:timestamp": 1711087080,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,33.636518,-84.430686,37.617990",
+    "geom:latitude": 35.627254,
+    "geom:longitude": -103.4008145,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102526927,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20240321-D-UAL-8282",
+    "sfomuseum:flight_number": [
+      "UAL8282",
+      "UA8282"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1711125236,
+    "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1897721399
+      }
+    ],
+    "wof:id": 1897721399,
+    "wof:involves": [
+      102526927,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1711125236,
+    "wof:name": "UA8282 (SFO-ATL)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2024-03",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    33.636518,
+    -84.430686,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-84.430686,33.636518]],"type":"MultiPoint"}
+}
