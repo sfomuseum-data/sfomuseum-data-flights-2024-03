@@ -2,10 +2,12 @@
   "id": 1897721437,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-22",
+    "date:cessation_upper": "2024-03-22",
     "date:inception_lower": "2024-03-21",
     "date:inception_upper": "2024-03-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-21",
+    "edtf:cessation": "2024-03-22T07:50:42Z",
+    "edtf:inception": "2024-03-21T05:14:43-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -2.892393999999996,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "icao:base_airline": "CCA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102550367,
     "sfomuseum:base_flight_id": "20240321-D-CCA-7206",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N2135U",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "80760322",
+      "swim:gufi": "KO60954500"
+    },
     "wof:country": "US",
     "wof:created": 1711125245,
     "wof:geomhash": "8a4a8d08e2e66037bce440d01d4bc21e",
@@ -90,9 +104,10 @@
       102527513,
       1159285413,
       1763588465,
-      1159283605
+      1159283605,
+      1159289993
     ],
-    "wof:lastmodified": 1711125245,
+    "wof:lastmodified": 1711125394,
     "wof:name": "UA888 (SFO-PEK)",
     "wof:parent_id": 1763588465,
     "wof:placetype": "custom",

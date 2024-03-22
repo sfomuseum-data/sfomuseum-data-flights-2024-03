@@ -2,10 +2,12 @@
   "id": 1897720933,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-21",
-    "date:inception_upper": "2024-03-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-21",
+    "date:cessation_lower": "2024-03-22",
+    "date:cessation_upper": "2024-03-22",
+    "date:inception_lower": "2024-03-22",
+    "date:inception_upper": "2024-03-22",
+    "edtf:cessation": "2024-03-22T03:59:55Z",
+    "edtf:inception": "2024-03-22T02:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.19416749999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.620533,
     "lbl:longitude": -122.389374,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:base_flight_id": "20240321-D-DLH-9366",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37413",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "80698687",
+      "swim:gufi": "KO85231500"
+    },
     "wof:country": "US",
     "wof:created": 1711125114,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1897720933,
     "wof:involves": [
+      1159286015,
+      1377564285,
       102526751,
       102527513,
       1159285413,
-      1763588319,
-      1159286015
+      1763588319
     ],
-    "wof:lastmodified": 1711125114,
+    "wof:lastmodified": 1711125387,
     "wof:name": "UA1187 (SFO-PHX)",
     "wof:parent_id": 1763588319,
     "wof:placetype": "custom",

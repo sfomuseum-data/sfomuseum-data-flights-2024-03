@@ -2,10 +2,12 @@
   "id": 1897715847,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-21",
+    "date:cessation_upper": "2024-03-21",
     "date:inception_lower": "2024-03-21",
     "date:inception_upper": "2024-03-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-21",
+    "edtf:cessation": "2024-03-21T05:37:35-07:00",
+    "edtf:inception": "2024-03-21T15:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2024-03-21",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.2506555,
     "geom:longitude": -107.78563,
     "iata:airline": "DL",
+    "icao:aircraft": "A320",
     "icao:airline": "DAL",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531131,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N323US",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "80735796",
+      "swim:gufi": "KP50701500"
+    },
     "wof:country": "US",
     "wof:created": 1711123779,
     "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1897715847,
     "wof:involves": [
+      1763588243,
+      1159292085,
       102527513,
       102531131,
-      1159284261,
-      1763588243
+      1159284261
     ],
-    "wof:lastmodified": 1711123779,
+    "wof:lastmodified": 1711125394,
     "wof:name": "DL2556 (MSP-SFO)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

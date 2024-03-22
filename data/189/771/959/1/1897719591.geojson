@@ -2,10 +2,12 @@
   "id": 1897719591,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-21",
-    "date:inception_upper": "2024-03-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-21",
+    "date:cessation_lower": "2024-03-21",
+    "date:cessation_upper": "2024-03-21",
+    "date:inception_lower": "2024-03-22",
+    "date:inception_upper": "2024-03-22",
+    "edtf:cessation": "2024-03-21T17:23:27Z",
+    "edtf:inception": "2024-03-21T23:11:36-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614759,
     "lbl:longitude": -122.382707,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20240321-D-AMX-3775",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N916DU",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "80725121",
+      "swim:gufi": "KO43862501"
+    },
     "wof:country": "US",
     "wof:created": 1711124763,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1897719591,
     "wof:involves": [
+      1377564285,
       102526927,
       102527513,
       1159284261,
       1763588245,
       1159283539
     ],
-    "wof:lastmodified": 1711124763,
+    "wof:lastmodified": 1711125420,
     "wof:name": "DL327 (SFO-ATL)",
     "wof:parent_id": 1763588245,
     "wof:placetype": "custom",
