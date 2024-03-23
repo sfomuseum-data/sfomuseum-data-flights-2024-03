@@ -2,10 +2,12 @@
   "id": 1897729007,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-22",
-    "date:inception_upper": "2024-03-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-22",
+    "date:cessation_lower": "2024-03-23",
+    "date:cessation_upper": "2024-03-23",
+    "date:inception_lower": "2024-03-23",
+    "date:inception_upper": "2024-03-23",
+    "edtf:cessation": "2024-03-23T04:35:51Z",
+    "edtf:inception": "2024-03-23T01:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SY",
     "flysfo:date": "2024-03-22",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.2506555,
     "geom:longitude": -107.78563,
     "iata:airline": "SY",
+    "icao:aircraft": "B738",
     "icao:airline": "SCX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285227,
     "sfomuseum:arrival_id": 102531131,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N830SY",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -81,12 +91,13 @@
     ],
     "wof:id": 1897729007,
     "wof:involves": [
+      1763588267,
+      1159289871,
       102531131,
       102527513,
-      1159285227,
-      1763588267
+      1159285227
     ],
-    "wof:lastmodified": 1711211235,
+    "wof:lastmodified": 1711211618,
     "wof:name": "SY1638 (SFO-MSP)",
     "wof:parent_id": 1763588267,
     "wof:placetype": "custom",
