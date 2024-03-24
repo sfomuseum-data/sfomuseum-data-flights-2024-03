@@ -2,10 +2,12 @@
   "id": 1897736315,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-23",
+    "date:cessation_upper": "2024-03-23",
     "date:inception_lower": "2024-03-23",
     "date:inception_upper": "2024-03-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-23",
+    "edtf:cessation": "2024-03-23T21:33:00Z",
+    "edtf:inception": "2024-03-23T18:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2024-03-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.2506555,
     "geom:longitude": -107.78563,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102531131,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N664DN",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "80949210",
+      "swim:gufi": "KO61861700"
+    },
     "wof:country": "US",
     "wof:created": 1711297349,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -45,12 +59,12 @@
     ],
     "wof:id": 1897736315,
     "wof:involves": [
+      1159289939,
       102531131,
       102527513,
-      1159284261,
-      -1
+      1159284261
     ],
-    "wof:lastmodified": 1711297349,
+    "wof:lastmodified": 1711297875,
     "wof:name": "DL8926 (SFO-MSP)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

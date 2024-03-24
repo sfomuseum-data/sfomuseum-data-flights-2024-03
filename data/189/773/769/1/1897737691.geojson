@@ -2,10 +2,12 @@
   "id": 1897737691,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-23",
+    "date:cessation_upper": "2024-03-23",
     "date:inception_lower": "2024-03-23",
     "date:inception_upper": "2024-03-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-23",
+    "edtf:cessation": "2024-03-23T19:42:00Z",
+    "edtf:inception": "2024-03-23T18:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-03-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N26208",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "81017444",
+      "swim:gufi": "KO58336700"
+    },
     "wof:country": "US",
     "wof:created": 1711297665,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1897737691,
     "wof:involves": [
+      1159289871,
       102526751,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1711297665,
+    "wof:lastmodified": 1711297895,
     "wof:name": "UA3942 (SFO-PHX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
