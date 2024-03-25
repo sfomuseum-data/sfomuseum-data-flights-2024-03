@@ -2,10 +2,12 @@
   "id": 1897743993,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-24",
-    "date:inception_upper": "2024-03-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-24",
+    "date:cessation_lower": "2024-03-25",
+    "date:cessation_upper": "2024-03-25",
+    "date:inception_lower": "2024-03-25",
+    "date:inception_upper": "2024-03-25",
+    "edtf:cessation": "2024-03-25T04:06:00Z",
+    "edtf:inception": "2024-03-25T02:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:base_flight_id": "20240324-D-AAL-7560",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N928AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO05111200"
+    },
     "wof:country": "US",
     "wof:created": 1711383764,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1897743993,
     "wof:involves": [
-      102527209,
-      102527513,
       1159283813,
       1763588139,
-      1159283849
+      1159283849,
+      1528104577,
+      102527209,
+      102527513
     ],
-    "wof:lastmodified": 1711383764,
+    "wof:lastmodified": 1711384465,
     "wof:name": "AS740 (SFO-LAS)",
     "wof:parent_id": 1763588139,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1897739643,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-24",
+    "date:cessation_upper": "2024-03-24",
     "date:inception_lower": "2024-03-24",
     "date:inception_upper": "2024-03-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-24",
+    "edtf:cessation": "2024-03-24T18:01:31Z",
+    "edtf:inception": "2024-03-24T13:49:20Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -112.83645849999999,
     "iata:airline": "AM",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "AMX",
     "icao:base_airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283539,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240324-A-DAL-7970",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "XAAMA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -90,9 +100,10 @@
       102536387,
       1159283539,
       1763588401,
-      1159284261
+      1159284261,
+      1159289871
     ],
-    "wof:lastmodified": 1711382714,
+    "wof:lastmodified": 1711384449,
     "wof:name": "AM622 (GDL-SFO)",
     "wof:parent_id": 1763588401,
     "wof:placetype": "custom",
