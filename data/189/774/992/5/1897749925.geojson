@@ -2,10 +2,12 @@
   "id": 1897749925,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-25",
+    "date:cessation_upper": "2024-03-25",
     "date:inception_lower": "2024-03-25",
     "date:inception_upper": "2024-03-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-25",
+    "edtf:cessation": "2024-03-25T16:20:14-07:00",
+    "edtf:inception": "2024-03-25T00:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "icao:base_airline": "SAS",
     "lbl:latitude": 37.620058,
     "lbl:longitude": -122.38824,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240325-A-SAS-6884",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N67134",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "81057126",
+      "swim:gufi": "KN76733200"
+    },
     "wof:country": "US",
     "wof:created": 1711469589,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1897749925,
     "wof:involves": [
-      102527513,
       102530049,
       1159285413,
       1763588311,
-      1159285129
+      1159285129,
+      1159289939,
+      102527513
     ],
-    "wof:lastmodified": 1711469589,
+    "wof:lastmodified": 1711470719,
     "wof:name": "UA1411 (EWR-SFO)",
     "wof:parent_id": 1763588311,
     "wof:placetype": "custom",
