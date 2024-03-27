@@ -2,10 +2,12 @@
   "id": 1897760929,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-27",
+    "date:cessation_upper": "2024-03-27",
     "date:inception_lower": "2024-03-26",
     "date:inception_upper": "2024-03-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-26",
+    "edtf:cessation": "2024-03-27T03:19:00Z",
+    "edtf:inception": "2024-03-26T12:28:11-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.1186115,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534161,
     "sfomuseum:base_flight_id": "20240326-D-ACA-4186",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N873UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "81144405",
+      "swim:gufi": "KO85051200"
+    },
     "wof:country": "US",
     "wof:created": 1711556866,
     "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1897760929,
     "wof:involves": [
-      102534161,
-      102527513,
       1159285413,
       1763588291,
-      1159283597
+      1159283597,
+      1159289407,
+      102534161,
+      102527513
     ],
-    "wof:lastmodified": 1711556866,
+    "wof:lastmodified": 1711557133,
     "wof:name": "UA1632 (SFO-SNA)",
     "wof:parent_id": 1763588291,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1897759663,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-26",
-    "date:inception_upper": "2024-03-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-26",
+    "date:cessation_lower": "2024-03-27",
+    "date:cessation_upper": "2024-03-27",
+    "date:inception_lower": "2024-03-27",
+    "date:inception_upper": "2024-03-27",
+    "edtf:cessation": "2024-03-27T01:56:00Z",
+    "edtf:inception": "2024-03-27T00:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527363,
     "sfomuseum:base_flight_id": "20240326-D-KLM-6430",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N322DU",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "81139285",
+      "swim:gufi": "KO84721300"
+    },
     "wof:country": "US",
     "wof:created": 1711556577,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1897759663,
     "wof:involves": [
-      102527363,
-      102527513,
       1159284261,
       1763588243,
-      1159284613
+      1159284613,
+      1813375783,
+      102527363,
+      102527513
     ],
-    "wof:lastmodified": 1711556577,
+    "wof:lastmodified": 1711557150,
     "wof:name": "DL2443 (SFO-SLC)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",
