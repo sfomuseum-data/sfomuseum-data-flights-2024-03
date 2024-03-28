@@ -2,10 +2,12 @@
   "id": 1897768447,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2024-03-27",
     "date:inception_upper": "2024-03-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-27",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2024-03-27T01:16:26-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2024-03-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 27.6096895,
     "geom:longitude": -111.9156105,
     "iata:airline": "AS",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617532,
     "lbl:longitude": -122.382384,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102536249,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N552AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -84,9 +92,10 @@
       102536249,
       102527513,
       1159283813,
-      1763588157
+      1763588157,
+      1159289871
     ],
-    "wof:lastmodified": 1711642884,
+    "wof:lastmodified": 1711643622,
     "wof:name": "AS1350 (SFO-ZIH)",
     "wof:parent_id": 1763588157,
     "wof:placetype": "custom",

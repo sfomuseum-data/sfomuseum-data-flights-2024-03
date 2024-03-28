@@ -2,10 +2,12 @@
   "id": 1897765395,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-27",
+    "date:cessation_upper": "2024-03-27",
     "date:inception_lower": "2024-03-27",
     "date:inception_upper": "2024-03-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-27",
+    "edtf:cessation": "2024-03-27T02:52:41-07:00",
+    "edtf:inception": "2024-03-27T05:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CX",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -4.221753499999998,
     "iata:airline": "CX",
     "iata:base_airline": "",
+    "icao:aircraft": "A359",
     "icao:airline": "CPA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.612674,
     "lbl:longitude": -122.389174,
+    "sfomuseum:aircraft_id": 1377564293,
     "sfomuseum:airline_id": 1159284127,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240327-A-AAL-8929",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-approach"
+    ],
+    "swim:tail_number": "BLRX",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "81234728"
+    },
     "wof:country": "US",
     "wof:created": 1711642165,
     "wof:geomhash": "300aa0b6d6fd1fa7d09bf740f0e0c265",
@@ -90,9 +102,10 @@
       102541737,
       1159284127,
       1763588411,
-      1159283849
+      1159283849,
+      1377564293
     ],
-    "wof:lastmodified": 1711642165,
+    "wof:lastmodified": 1711643613,
     "wof:name": "CX870 (HKG-SFO)",
     "wof:parent_id": 1763588411,
     "wof:placetype": "custom",
