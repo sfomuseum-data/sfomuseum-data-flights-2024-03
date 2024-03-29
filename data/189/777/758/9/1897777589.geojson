@@ -1,0 +1,69 @@
+{
+  "id": 1897777589,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-03-28",
+    "date:inception_upper": "2024-03-28",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-03-28",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "HA",
+    "flysfo:date": "2024-03-28",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "HA9907",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-KOA",
+    "flysfo:scheduled_timestamp": 1711670400,
+    "flysfo:timestamp": 1711670400,
+    "geom:area": 0,
+    "geom:bbox": "-156.035060,19.732444,-122.370943,37.617990",
+    "geom:latitude": 28.675217,
+    "geom:longitude": -139.2030015,
+    "iata:airline": "HA",
+    "icao:airline": "HAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284489,
+    "sfomuseum:arrival_id": 102532939,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20240328-D-HAL-9907",
+    "sfomuseum:flight_number": [
+      "HAL9907",
+      "HA9907"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1711729548,
+    "wof:geomhash": "ffd2c7b34797175c51fc3517b1c4b69d",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1897777589
+      }
+    ],
+    "wof:id": 1897777589,
+    "wof:involves": [
+      102532939,
+      102527513,
+      1159284489,
+      -1
+    ],
+    "wof:lastmodified": 1711729548,
+    "wof:name": "HA9907 (SFO-KOA)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2024-03",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -156.03506,
+    19.732444,
+    -122.370943,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-156.03506,19.732444]],"type":"MultiPoint"}
+}
