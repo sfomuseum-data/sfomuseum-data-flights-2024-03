@@ -2,10 +2,12 @@
   "id": 1897774815,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-28",
-    "date:inception_upper": "2024-03-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-28",
+    "date:cessation_lower": "2024-03-28",
+    "date:cessation_upper": "2024-03-28",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2024-03-28T10:25:08-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.3621325,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.620791,
     "lbl:longitude": -122.390014,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240328-A-ACA-3966",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N37313",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -90,9 +98,10 @@
       1746879083,
       1159285413,
       1763588321,
-      1159283597
+      1159283597,
+      1528104575
     ],
-    "wof:lastmodified": 1711728904,
+    "wof:lastmodified": 1711730062,
     "wof:name": "UA208 (BUR-SFO)",
     "wof:parent_id": 1763588321,
     "wof:placetype": "custom",
