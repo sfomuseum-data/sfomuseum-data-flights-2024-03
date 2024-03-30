@@ -2,10 +2,12 @@
   "id": 1897782575,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-29",
+    "date:cessation_upper": "2024-03-29",
     "date:inception_lower": "2024-03-29",
     "date:inception_upper": "2024-03-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-29",
+    "edtf:cessation": "2024-03-29T10:06:37-07:00",
+    "edtf:inception": "2024-03-29T19:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "THY",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240329-A-THY-8889",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N37531",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "81490816",
+      "swim:gufi": "KO81281600"
+    },
     "wof:country": "US",
     "wof:created": 1711815329,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1897782575,
     "wof:involves": [
+      1528104577,
       102527513,
       102533997,
       1159285413,
       1763588159,
       1159285391
     ],
-    "wof:lastmodified": 1711815329,
+    "wof:lastmodified": 1711816472,
     "wof:name": "UA214 (HNL-SFO)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",
