@@ -2,10 +2,12 @@
   "id": 1897793655,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-30",
+    "date:cessation_upper": "2024-03-30",
     "date:inception_lower": "2024-03-30",
     "date:inception_upper": "2024-03-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-30",
+    "edtf:cessation": "2024-03-30T12:01:00Z",
+    "edtf:inception": "2024-03-30T07:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -102.4509355,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533243,
     "sfomuseum:base_flight_id": "20240330-D-ANZ-2223",
@@ -53,6 +57,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "81546165",
+      "swim:gufi": "KO12343700"
+    },
     "wof:country": "US",
     "wof:created": 1711902513,
     "wof:geomhash": "eed3ad030b4c80153105b635669626b5",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1897793655,
     "wof:involves": [
+      1159283697,
+      1528104577,
       102533243,
       102527513,
       1159285413,
-      1763588159,
-      1159283697
+      1763588159
     ],
-    "wof:lastmodified": 1711902513,
+    "wof:lastmodified": 1711902795,
     "wof:name": "UA2615 (SFO-TPA)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

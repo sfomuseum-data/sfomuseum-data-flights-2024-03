@@ -2,10 +2,12 @@
   "id": 1897792771,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-30",
+    "date:cessation_upper": "2024-03-30",
     "date:inception_lower": "2024-03-30",
     "date:inception_upper": "2024-03-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-30",
+    "edtf:cessation": "2024-03-30T19:39:25Z",
+    "edtf:inception": "2024-03-30T18:14:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:date": "2024-03-30",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.20008,
     "geom:longitude": -117.1757545,
     "iata:airline": "B6",
+    "icao:aircraft": "A321",
     "icao:airline": "JBU",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102527363,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N962JT",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "81702790",
+      "swim:gufi": "KO63431700"
+    },
     "wof:country": "US",
     "wof:created": 1711902310,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -45,12 +59,12 @@
     ],
     "wof:id": 1897792771,
     "wof:involves": [
+      1159289411,
       102527363,
       102527513,
-      1159284583,
-      -1
+      1159284583
     ],
-    "wof:lastmodified": 1711902310,
+    "wof:lastmodified": 1711902785,
     "wof:name": "B68536 (SFO-SLC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

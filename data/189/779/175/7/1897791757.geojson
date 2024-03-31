@@ -2,10 +2,12 @@
   "id": 1897791757,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-30",
+    "date:cessation_upper": "2024-03-30",
     "date:inception_lower": "2024-03-30",
     "date:inception_upper": "2024-03-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-30",
+    "edtf:cessation": "2024-03-30T17:45:00Z",
+    "edtf:inception": "2024-03-30T01:32:32-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2024-03-30",
@@ -21,9 +23,11 @@
     "geom:latitude": 31.803578333333498,
     "geom:longitude": -116.85963816666501,
     "iata:airline": "AS",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61756,
     "lbl:longitude": -122.381052,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102536515,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N237AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "81579677"
+    },
     "wof:country": "US",
     "wof:created": 1711902077,
     "wof:geomhash": "38f44192f1840f2d3faa09cbda9e2b02",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1897791757,
     "wof:involves": [
+      1377564285,
       102536515,
       102527513,
       1159283813,
       1763588143
     ],
-    "wof:lastmodified": 1711902077,
+    "wof:lastmodified": 1711902774,
     "wof:name": "AS1356 (SFO-LTO)",
     "wof:parent_id": 1763588143,
     "wof:placetype": "custom",

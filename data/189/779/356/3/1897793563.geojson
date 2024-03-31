@@ -2,10 +2,12 @@
   "id": 1897793563,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-31",
+    "date:cessation_upper": "2024-03-31",
     "date:inception_lower": "2024-03-30",
     "date:inception_upper": "2024-03-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-30",
+    "edtf:cessation": "2024-03-31T01:28:00Z",
+    "edtf:inception": "2024-03-30T23:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.621076,
     "lbl:longitude": -122.390239,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527363,
     "sfomuseum:base_flight_id": "20240330-D-ACA-4215",
@@ -53,6 +57,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "81639879"
+    },
     "wof:country": "US",
     "wof:created": 1711902492,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -86,13 +93,14 @@
     ],
     "wof:id": 1897793563,
     "wof:involves": [
+      1159283597,
+      1159292085,
       102527363,
       102527513,
       1159285413,
-      1763588327,
-      1159283597
+      1763588327
     ],
-    "wof:lastmodified": 1711902492,
+    "wof:lastmodified": 1711902795,
     "wof:name": "UA2002 (SFO-SLC)",
     "wof:parent_id": 1763588327,
     "wof:placetype": "custom",

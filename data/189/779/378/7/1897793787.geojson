@@ -2,10 +2,12 @@
   "id": 1897793787,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-03-30",
-    "date:inception_upper": "2024-03-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-30",
+    "date:cessation_lower": "2024-03-31",
+    "date:cessation_upper": "2024-03-31",
+    "date:inception_lower": "2024-03-31",
+    "date:inception_upper": "2024-03-31",
+    "edtf:cessation": "2024-03-31T15:01:00Z",
+    "edtf:inception": "2024-03-31T10:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B78X",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.617615,
     "lbl:longitude": -122.390247,
+    "sfomuseum:aircraft_id": 1377564289,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530049,
     "sfomuseum:base_flight_id": "20240330-D-ANZ-9115",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "81548055",
+      "swim:gufi": "KO24334100"
+    },
     "wof:country": "US",
     "wof:created": 1711902543,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -90,9 +102,10 @@
       102527513,
       1159285413,
       1763588441,
-      1159283697
+      1159283697,
+      1377564289
     ],
-    "wof:lastmodified": 1711902543,
+    "wof:lastmodified": 1711902796,
     "wof:name": "UA549 (SFO-EWR)",
     "wof:parent_id": 1763588441,
     "wof:placetype": "custom",
