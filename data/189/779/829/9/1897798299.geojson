@@ -2,10 +2,12 @@
   "id": 1897798299,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-31",
+    "date:cessation_upper": "2024-03-31",
     "date:inception_lower": "2024-03-31",
     "date:inception_upper": "2024-03-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-31",
+    "edtf:cessation": "2024-03-31T09:20:06Z",
+    "edtf:inception": "2024-03-31T04:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-03-31",
@@ -48,6 +50,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "81658233"
+    },
     "wof:country": "US",
     "wof:created": 1711988136,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -86,7 +91,7 @@
       1159285413,
       1763588309
     ],
-    "wof:lastmodified": 1711988136,
+    "wof:lastmodified": 1711989314,
     "wof:name": "UA3027 (HNL-SFO)",
     "wof:parent_id": 1763588309,
     "wof:placetype": "custom",

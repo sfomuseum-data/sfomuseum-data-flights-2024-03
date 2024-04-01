@@ -2,10 +2,12 @@
   "id": 1897797129,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-31",
+    "date:cessation_upper": "2024-03-31",
     "date:inception_lower": "2024-03-31",
     "date:inception_upper": "2024-03-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-31",
+    "edtf:cessation": "2024-03-31T14:22:14-07:00",
+    "edtf:inception": "2024-03-31T23:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "HA",
     "flysfo:date": "2024-03-31",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.475248999999998,
     "geom:longitude": -140.1446795,
     "iata:airline": "HA",
+    "icao:aircraft": "A21N",
     "icao:airline": "HAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284489,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533997,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N228HA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "81815034"
+    },
     "wof:country": "US",
     "wof:created": 1711987867,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1897797129,
     "wof:involves": [
+      1377564297,
       102527513,
       102533997,
       1159284489,
       1763588423
     ],
-    "wof:lastmodified": 1711987867,
+    "wof:lastmodified": 1711989295,
     "wof:name": "HA1042 (HNL-SFO)",
     "wof:parent_id": 1763588423,
     "wof:placetype": "custom",

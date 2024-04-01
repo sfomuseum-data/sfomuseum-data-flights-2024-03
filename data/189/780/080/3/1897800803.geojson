@@ -2,10 +2,12 @@
   "id": 1897800803,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-31",
+    "date:cessation_upper": "2024-03-31",
     "date:inception_lower": "2024-03-31",
     "date:inception_upper": "2024-03-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-03-31",
+    "edtf:cessation": "2024-03-31T10:09:01Z",
+    "edtf:inception": "2024-03-31T08:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2024-03-31",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.7414645,
     "geom:longitude": -113.521581,
     "iata:airline": "F9",
+    "icao:aircraft": "A20N",
     "icao:airline": "FFT",
     "lbl:latitude": 37.613288,
     "lbl:longitude": -122.389396,
+    "sfomuseum:aircraft_id": 1377564295,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N326FR",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +56,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "81664818",
+      "swim:gufi": "KO24466100"
+    },
     "wof:country": "US",
     "wof:created": 1711988723,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1897800803,
     "wof:involves": [
-      102531189,
-      102527513,
       1159284401,
-      1763588409
+      1763588409,
+      1377564295,
+      102531189,
+      102527513
     ],
-    "wof:lastmodified": 1711988723,
+    "wof:lastmodified": 1711989286,
     "wof:name": "F91094 (SFO-DEN)",
     "wof:parent_id": 1763588409,
     "wof:placetype": "custom",
