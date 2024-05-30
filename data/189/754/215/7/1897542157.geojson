@@ -52,6 +52,7 @@
     "wof:geomhash": "b4d056e1d6e58dcf382167f77162f897",
     "wof:hierarchy": [
       {
+        "custom_id": 1897542157,
         "flight_id": 1897542157
       }
     ],
@@ -62,11 +63,13 @@
       102530129,
       102527513
     ],
-    "wof:lastmodified": 1709656231,
+    "wof:lastmodified": 1717048231,
     "wof:name": "MX600 (SFO-SBD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

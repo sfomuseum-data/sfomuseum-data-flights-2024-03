@@ -51,6 +51,7 @@
     "wof:geomhash": "579cc6c0d5668ba584a946b357aa3191",
     "wof:hierarchy": [
       {
+        "custom_id": 1897593779,
         "flight_id": 1897593779
       }
     ],
@@ -61,11 +62,13 @@
       1746879083,
       1159285413
     ],
-    "wof:lastmodified": 1710174612,
+    "wof:lastmodified": 1717048232,
     "wof:name": "UA3862 (BUR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

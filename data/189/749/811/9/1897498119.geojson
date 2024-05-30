@@ -52,6 +52,7 @@
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
     "wof:hierarchy": [
       {
+        "custom_id": 1897498119,
         "flight_id": 1897498119
       }
     ],
@@ -62,11 +63,13 @@
       102526751,
       1159285591
     ],
-    "wof:lastmodified": 1709397052,
+    "wof:lastmodified": 1717048231,
     "wof:name": "WN8543 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

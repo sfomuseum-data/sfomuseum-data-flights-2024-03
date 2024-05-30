@@ -45,6 +45,7 @@
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
     "wof:hierarchy": [
       {
+        "custom_id": 1897523455,
         "flight_id": 1897523455
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1709482606,
+    "wof:lastmodified": 1717048232,
     "wof:name": "AC8843 (SFO-YVR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -40,6 +40,7 @@
     "wof:geomhash": "87e43b321087b5e7d68ac47fe0a6e824",
     "wof:hierarchy": [
       {
+        "custom_id": 1897640301,
         "flight_id": 1897640301
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1710605674,
+    "wof:lastmodified": 1717048235,
     "wof:name": "UA3043 (PVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -48,6 +48,7 @@
     "wof:geomhash": "07bfd75b358269393c92373b424876ce",
     "wof:hierarchy": [
       {
+        "custom_id": 1897498835,
         "flight_id": 1897498835
       }
     ],
@@ -58,11 +59,13 @@
       102551487,
       1159285413
     ],
-    "wof:lastmodified": 1709397060,
+    "wof:lastmodified": 1717048232,
     "wof:name": "UA872 (TPE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

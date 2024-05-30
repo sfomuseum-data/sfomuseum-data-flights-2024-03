@@ -45,6 +45,7 @@
     "wof:geomhash": "83e2c60a8819c96e9fa3721059c5eac5",
     "wof:hierarchy": [
       {
+        "custom_id": 1897747349,
         "flight_id": 1897747349
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283917
     ],
-    "wof:lastmodified": 1711468971,
+    "wof:lastmodified": 1717048244,
     "wof:name": "OZ6614 (ICN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

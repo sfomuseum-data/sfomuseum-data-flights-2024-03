@@ -53,6 +53,7 @@
     "wof:geomhash": "0a41093e5d82882db018a6f46a3ef58a",
     "wof:hierarchy": [
       {
+        "custom_id": 1897597653,
         "flight_id": 1897597653
       }
     ],
@@ -64,11 +65,13 @@
       1159285413,
       1159286015
     ],
-    "wof:lastmodified": 1710174634,
+    "wof:lastmodified": 1717048234,
     "wof:name": "UA917 (SFO-AKL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

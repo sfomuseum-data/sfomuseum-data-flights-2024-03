@@ -51,6 +51,7 @@
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
+        "custom_id": 1897792769,
         "flight_id": 1897792769
       }
     ],
@@ -61,11 +62,13 @@
       102533795,
       102527513
     ],
-    "wof:lastmodified": 1711902785,
+    "wof:lastmodified": 1717048245,
     "wof:name": "B68359 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -45,6 +45,7 @@
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
     "wof:hierarchy": [
       {
+        "custom_id": 1897663327,
         "flight_id": 1897663327
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1710864408,
+    "wof:lastmodified": 1717048238,
     "wof:name": "NZ9727 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

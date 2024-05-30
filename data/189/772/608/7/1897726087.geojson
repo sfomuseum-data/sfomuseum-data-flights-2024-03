@@ -53,6 +53,7 @@
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
     "wof:hierarchy": [
       {
+        "custom_id": 1897726087,
         "flight_id": 1897726087
       }
     ],
@@ -63,11 +64,13 @@
       1528104577,
       102527513
     ],
-    "wof:lastmodified": 1711211608,
+    "wof:lastmodified": 1717048242,
     "wof:name": "UA8160 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -56,6 +56,7 @@
     "wof:geomhash": "a641cfa97e5d709c9877b45a6ec29f09",
     "wof:hierarchy": [
       {
+        "custom_id": 1897603169,
         "flight_id": 1897603169
       }
     ],
@@ -67,11 +68,13 @@
       1159285413,
       1159283875
     ],
-    "wof:lastmodified": 1710260984,
+    "wof:lastmodified": 1717048234,
     "wof:name": "UA34 (KIX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

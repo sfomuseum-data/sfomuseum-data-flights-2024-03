@@ -40,6 +40,7 @@
     "wof:geomhash": "3d19e2486afc236330c096bb1f630ba3",
     "wof:hierarchy": [
       {
+        "custom_id": 1897558409,
         "flight_id": 1897558409
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1709828576,
+    "wof:lastmodified": 1717048234,
     "wof:name": "DL418 (SFO-MFR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

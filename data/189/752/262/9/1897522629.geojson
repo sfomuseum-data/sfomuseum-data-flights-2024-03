@@ -57,6 +57,7 @@
     "wof:geomhash": "d46bcc8d1d94e68df95be799ac6a3b4c",
     "wof:hierarchy": [
       {
+        "custom_id": 1897522629,
         "flight_id": 1897522629
       }
     ],
@@ -68,11 +69,13 @@
       102541685,
       1159285413
     ],
-    "wof:lastmodified": 1709483297,
+    "wof:lastmodified": 1717048231,
     "wof:name": "UA838 (NRT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -48,6 +48,7 @@
     "wof:geomhash": "772e5110aaf1e095142ff9199bc6ebaa",
     "wof:hierarchy": [
       {
+        "custom_id": 1897766693,
         "flight_id": 1897766693
       }
     ],
@@ -58,11 +59,13 @@
       102528187,
       1159285413
     ],
-    "wof:lastmodified": 1711643630,
+    "wof:lastmodified": 1717048246,
     "wof:name": "UA2211 (CVG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

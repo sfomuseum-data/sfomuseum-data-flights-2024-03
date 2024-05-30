@@ -55,6 +55,7 @@
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
     "wof:hierarchy": [
       {
+        "custom_id": 1897602915,
         "flight_id": 1897602915
       }
     ],
@@ -66,11 +67,13 @@
       1159285413,
       1159283875
     ],
-    "wof:lastmodified": 1710260982,
+    "wof:lastmodified": 1717048234,
     "wof:name": "UA131 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

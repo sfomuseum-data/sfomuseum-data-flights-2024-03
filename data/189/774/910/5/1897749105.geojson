@@ -40,6 +40,7 @@
     "wof:geomhash": "d5ad4a83d3d679d1b3fe86e419b08d84",
     "wof:hierarchy": [
       {
+        "custom_id": 1897749105,
         "flight_id": 1897749105
       }
     ],
@@ -50,11 +51,13 @@
       1159284489,
       -1
     ],
-    "wof:lastmodified": 1711469397,
+    "wof:lastmodified": 1717048247,
     "wof:name": "HA9906 (KOA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

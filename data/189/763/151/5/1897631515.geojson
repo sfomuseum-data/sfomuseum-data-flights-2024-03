@@ -45,6 +45,7 @@
     "wof:geomhash": "e506e1cc6e68aaf992ce3bac53e4e4fa",
     "wof:hierarchy": [
       {
+        "custom_id": 1897631515,
         "flight_id": 1897631515
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283597
     ],
-    "wof:lastmodified": 1710519338,
+    "wof:lastmodified": 1717048236,
     "wof:name": "UA4753 (BOI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -40,6 +40,7 @@
     "wof:geomhash": "f5805f1be1c56ce2a2965880e252c65f",
     "wof:hierarchy": [
       {
+        "custom_id": 1897663955,
         "flight_id": 1897663955
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1710864576,
+    "wof:lastmodified": 1717048238,
     "wof:name": "DL425 (SMF-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

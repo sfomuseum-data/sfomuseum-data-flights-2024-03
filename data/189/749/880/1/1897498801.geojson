@@ -52,6 +52,7 @@
     "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
     "wof:hierarchy": [
       {
+        "custom_id": 1897498801,
         "flight_id": 1897498801
       }
     ],
@@ -62,11 +63,13 @@
       1528104577,
       102527513
     ],
-    "wof:lastmodified": 1709397075,
+    "wof:lastmodified": 1717048232,
     "wof:name": "UA8135 (IAH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

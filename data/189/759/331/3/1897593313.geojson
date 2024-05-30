@@ -40,6 +40,7 @@
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
     "wof:hierarchy": [
       {
+        "custom_id": 1897593313,
         "flight_id": 1897593313
       }
     ],
@@ -50,11 +51,13 @@
       1159285591,
       -1
     ],
-    "wof:lastmodified": 1710173494,
+    "wof:lastmodified": 1717048231,
     "wof:name": "WN5165 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

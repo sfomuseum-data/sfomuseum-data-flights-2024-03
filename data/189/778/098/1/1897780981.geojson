@@ -51,6 +51,7 @@
     "wof:geomhash": "07bfd75b358269393c92373b424876ce",
     "wof:hierarchy": [
       {
+        "custom_id": 1897780981,
         "flight_id": 1897780981
       }
     ],
@@ -61,11 +62,13 @@
       102551487,
       1159284153
     ],
-    "wof:lastmodified": 1711816465,
+    "wof:lastmodified": 1717048243,
     "wof:name": "CI5346 (TPE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

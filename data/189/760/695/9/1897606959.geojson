@@ -53,6 +53,7 @@
     "wof:geomhash": "33c9625a4901edf29154e5ec4b308b8b",
     "wof:hierarchy": [
       {
+        "custom_id": 1897606959,
         "flight_id": 1897606959
       }
     ],
@@ -63,11 +64,13 @@
       1528104577,
       102533657
     ],
-    "wof:lastmodified": 1710260996,
+    "wof:lastmodified": 1717048237,
     "wof:name": "UA8123 (SFO-MCO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

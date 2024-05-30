@@ -45,6 +45,7 @@
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
     "wof:hierarchy": [
       {
+        "custom_id": 1897533079,
         "flight_id": 1897533079
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284021
     ],
-    "wof:lastmodified": 1709569309,
+    "wof:lastmodified": 1717048231,
     "wof:name": "CX7602 (SFO-DFW)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

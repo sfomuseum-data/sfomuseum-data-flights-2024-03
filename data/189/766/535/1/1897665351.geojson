@@ -53,6 +53,7 @@
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
     "wof:hierarchy": [
       {
+        "custom_id": 1897665351,
         "flight_id": 1897665351
       }
     ],
@@ -64,11 +65,13 @@
       1159285413,
       1159283697
     ],
-    "wof:lastmodified": 1710866049,
+    "wof:lastmodified": 1717048239,
     "wof:name": "UA345 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

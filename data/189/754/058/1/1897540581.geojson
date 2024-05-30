@@ -40,6 +40,7 @@
     "wof:geomhash": "9151bfe07cf224e1ff61a7f7b8c30671",
     "wof:hierarchy": [
       {
+        "custom_id": 1897540581,
         "flight_id": 1897540581
       }
     ],
@@ -50,11 +51,13 @@
       1159283627,
       -1
     ],
-    "wof:lastmodified": 1709655484,
+    "wof:lastmodified": 1717048247,
     "wof:name": "AF2644 (SFO-DTW)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

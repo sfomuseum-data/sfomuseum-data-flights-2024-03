@@ -40,6 +40,7 @@
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
     "wof:hierarchy": [
       {
+        "custom_id": 1897634105,
         "flight_id": 1897634105
       }
     ],
@@ -50,11 +51,13 @@
       1159284489,
       -1
     ],
-    "wof:lastmodified": 1710520028,
+    "wof:lastmodified": 1717048238,
     "wof:name": "HA9921 (SFO-BOS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

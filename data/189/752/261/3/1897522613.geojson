@@ -52,6 +52,7 @@
     "wof:geomhash": "aae625247f3652ef8a50cae9f49d2791",
     "wof:hierarchy": [
       {
+        "custom_id": 1897522613,
         "flight_id": 1897522613
       }
     ],
@@ -62,11 +63,13 @@
       102527337,
       1159285413
     ],
-    "wof:lastmodified": 1709483297,
+    "wof:lastmodified": 1717048231,
     "wof:name": "UA8109 (SBA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

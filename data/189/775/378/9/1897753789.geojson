@@ -54,6 +54,7 @@
     "wof:geomhash": "998e7b0d931c2ad5e41dcc1541aaab60",
     "wof:hierarchy": [
       {
+        "custom_id": 1897753789,
         "flight_id": 1897753789
       }
     ],
@@ -65,11 +66,13 @@
       102551593,
       102527513
     ],
-    "wof:lastmodified": 1711470730,
+    "wof:lastmodified": 1717048242,
     "wof:name": "UA29 (SFO-SIN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

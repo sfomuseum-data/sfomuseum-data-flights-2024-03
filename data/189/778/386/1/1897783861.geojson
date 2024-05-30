@@ -40,6 +40,7 @@
     "wof:geomhash": "5685f56014cf853d095c4b0f2d5ea6d9",
     "wof:hierarchy": [
       {
+        "custom_id": 1897783861,
         "flight_id": 1897783861
       }
     ],
@@ -50,11 +51,13 @@
       1159283649,
       -1
     ],
-    "wof:lastmodified": 1711815629,
+    "wof:lastmodified": 1717048246,
     "wof:name": "AI174 (SFO-DEL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

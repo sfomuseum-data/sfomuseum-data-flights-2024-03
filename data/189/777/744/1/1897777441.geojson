@@ -48,6 +48,7 @@
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
     "wof:hierarchy": [
       {
+        "custom_id": 1897777441,
         "flight_id": 1897777441
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       1159284401
     ],
-    "wof:lastmodified": 1711730082,
+    "wof:lastmodified": 1717048247,
     "wof:name": "F91836 (SFO-DFW)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -48,6 +48,7 @@
     "wof:geomhash": "bfe9b4dfbd612ca8de6bd9460273f90d",
     "wof:hierarchy": [
       {
+        "custom_id": 1897639379,
         "flight_id": 1897639379
       }
     ],
@@ -58,11 +59,13 @@
       1377564289,
       102527513
     ],
-    "wof:lastmodified": 1710606758,
+    "wof:lastmodified": 1717048241,
     "wof:name": "KL221 (AMS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

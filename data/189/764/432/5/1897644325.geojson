@@ -45,6 +45,7 @@
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
     "wof:hierarchy": [
       {
+        "custom_id": 1897644325,
         "flight_id": 1897644325
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1710606625,
+    "wof:lastmodified": 1717048238,
     "wof:name": "UA8396 (SFO-YYZ)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

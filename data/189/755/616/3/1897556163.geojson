@@ -48,6 +48,7 @@
     "wof:geomhash": "1bce6af8a92006379b4194e1695731d3",
     "wof:hierarchy": [
       {
+        "custom_id": 1897556163,
         "flight_id": 1897556163
       }
     ],
@@ -58,11 +59,13 @@
       102528181,
       1159285413
     ],
-    "wof:lastmodified": 1709829058,
+    "wof:lastmodified": 1717048232,
     "wof:name": "UA2238 (PIT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

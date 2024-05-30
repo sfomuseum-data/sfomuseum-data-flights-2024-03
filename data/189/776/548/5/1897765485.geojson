@@ -40,6 +40,7 @@
     "wof:geomhash": "7685368f2ace650ddf08145f6ec5f0c3",
     "wof:hierarchy": [
       {
+        "custom_id": 1897765485,
         "flight_id": 1897765485
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1711642187,
+    "wof:lastmodified": 1717048245,
     "wof:name": "DL8838 (OKC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

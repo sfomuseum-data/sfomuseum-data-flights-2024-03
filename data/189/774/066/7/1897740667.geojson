@@ -48,6 +48,7 @@
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
     "wof:hierarchy": [
       {
+        "custom_id": 1897740667,
         "flight_id": 1897740667
       }
     ],
@@ -58,11 +59,13 @@
       1159284261,
       1159289871
     ],
-    "wof:lastmodified": 1711384450,
+    "wof:lastmodified": 1717048239,
     "wof:name": "DL1663 (SLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

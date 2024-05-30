@@ -40,6 +40,7 @@
     "wof:geomhash": "bad2a9df282a9dbb1901c62245df7f6a",
     "wof:hierarchy": [
       {
+        "custom_id": 1897651599,
         "flight_id": 1897651599
       }
     ],
@@ -50,11 +51,13 @@
       1159286153,
       -1
     ],
-    "wof:lastmodified": 1710692701,
+    "wof:lastmodified": 1717048236,
     "wof:name": "QR67 (SFO-LGW)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

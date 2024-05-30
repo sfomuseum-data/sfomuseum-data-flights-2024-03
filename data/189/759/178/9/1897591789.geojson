@@ -45,6 +45,7 @@
     "wof:geomhash": "07839d38a937070012f963bfe77eb5da",
     "wof:hierarchy": [
       {
+        "custom_id": 1897591789,
         "flight_id": 1897591789
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1710173134,
+    "wof:lastmodified": 1717048230,
     "wof:name": "NZ9816 (AKL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

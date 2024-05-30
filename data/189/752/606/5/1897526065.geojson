@@ -53,6 +53,7 @@
     "wof:geomhash": "ff243e97b2d4ce40e0a4accb79115371",
     "wof:hierarchy": [
       {
+        "custom_id": 1897526065,
         "flight_id": 1897526065
       }
     ],
@@ -63,11 +64,13 @@
       102532047,
       102527513
     ],
-    "wof:lastmodified": 1709483324,
+    "wof:lastmodified": 1717048234,
     "wof:name": "UA8110 (SFO-BWI)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

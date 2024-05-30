@@ -48,6 +48,7 @@
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
     "wof:hierarchy": [
       {
+        "custom_id": 1897530501,
         "flight_id": 1897530501
       }
     ],
@@ -58,11 +59,13 @@
       1528104575,
       102527513
     ],
-    "wof:lastmodified": 1709569824,
+    "wof:lastmodified": 1717048247,
     "wof:name": "WN3779 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

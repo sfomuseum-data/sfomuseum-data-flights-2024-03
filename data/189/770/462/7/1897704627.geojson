@@ -48,6 +48,7 @@
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
     "wof:hierarchy": [
       {
+        "custom_id": 1897704627,
         "flight_id": 1897704627
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1710952287,
+    "wof:lastmodified": 1717048240,
     "wof:name": "UA8215 (SFO-SEA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

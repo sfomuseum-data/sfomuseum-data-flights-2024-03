@@ -40,6 +40,7 @@
     "wof:geomhash": "32d30f4325a4e48c10f69227a28b060a",
     "wof:hierarchy": [
       {
+        "custom_id": 1897593783,
         "flight_id": 1897593783
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1710173603,
+    "wof:lastmodified": 1717048232,
     "wof:name": "UA3863 (CWF-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

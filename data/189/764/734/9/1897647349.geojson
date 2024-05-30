@@ -48,6 +48,7 @@
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
+        "custom_id": 1897647349,
         "flight_id": 1897647349
       }
     ],
@@ -58,11 +59,13 @@
       1159289939,
       102527513
     ],
-    "wof:lastmodified": 1710693015,
+    "wof:lastmodified": 1717048240,
     "wof:name": "DL8926 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

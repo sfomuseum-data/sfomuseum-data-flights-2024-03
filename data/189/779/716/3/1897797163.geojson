@@ -70,6 +70,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1897797163,
         "flight_id": 1897797163,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
@@ -84,6 +85,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "custom_id": 1897797163,
         "flight_id": 1897797163,
         "region_id": 85688637,
         "venue_id": 1763588203,
@@ -98,11 +100,13 @@
       102545733,
       1159284511
     ],
-    "wof:lastmodified": 1711989296,
+    "wof:lastmodified": 1717048248,
     "wof:name": "IB2621 (BCN-SFO)",
     "wof:parent_id": 1763588203,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

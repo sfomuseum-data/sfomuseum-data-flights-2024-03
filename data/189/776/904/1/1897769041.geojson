@@ -48,6 +48,7 @@
     "wof:geomhash": "25f5345529d944df781e36098260a435",
     "wof:hierarchy": [
       {
+        "custom_id": 1897769041,
         "flight_id": 1897769041
       }
     ],
@@ -58,11 +59,13 @@
       102528997,
       102527513
     ],
-    "wof:lastmodified": 1711643636,
+    "wof:lastmodified": 1717048248,
     "wof:name": "DL8886 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

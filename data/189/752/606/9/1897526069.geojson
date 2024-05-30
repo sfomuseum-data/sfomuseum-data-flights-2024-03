@@ -52,6 +52,7 @@
     "wof:geomhash": "25f5345529d944df781e36098260a435",
     "wof:hierarchy": [
       {
+        "custom_id": 1897526069,
         "flight_id": 1897526069
       }
     ],
@@ -62,11 +63,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1709483324,
+    "wof:lastmodified": 1717048234,
     "wof:name": "UA8141 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

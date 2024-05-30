@@ -48,6 +48,7 @@
     "wof:geomhash": "968bb026a0fa1cef9842447a45b980d7",
     "wof:hierarchy": [
       {
+        "custom_id": 1897798319,
         "flight_id": 1897798319
       }
     ],
@@ -58,11 +59,13 @@
       1159285413,
       1377564285
     ],
-    "wof:lastmodified": 1711989314,
+    "wof:lastmodified": 1717048248,
     "wof:name": "UA3754 (BFI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -53,6 +53,7 @@
     "wof:geomhash": "ec4a8fe4d0e09d37ae50bf109072b003",
     "wof:hierarchy": [
       {
+        "custom_id": 1897549921,
         "flight_id": 1897549921
       }
     ],
@@ -63,11 +64,13 @@
       1159289989,
       102551487
     ],
-    "wof:lastmodified": 1709742556,
+    "wof:lastmodified": 1717048236,
     "wof:name": "CI5345 (SFO-TPE)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

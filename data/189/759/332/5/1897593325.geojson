@@ -53,6 +53,7 @@
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
     "wof:hierarchy": [
       {
+        "custom_id": 1897593325,
         "flight_id": 1897593325
       }
     ],
@@ -63,11 +64,13 @@
       1159285591,
       1159289871
     ],
-    "wof:lastmodified": 1710174610,
+    "wof:lastmodified": 1717048231,
     "wof:name": "WN833 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

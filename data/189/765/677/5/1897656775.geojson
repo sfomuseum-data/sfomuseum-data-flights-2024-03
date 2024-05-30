@@ -48,6 +48,7 @@
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
     "wof:hierarchy": [
       {
+        "custom_id": 1897656775,
         "flight_id": 1897656775
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       102533631
     ],
-    "wof:lastmodified": 1710779599,
+    "wof:lastmodified": 1717048240,
     "wof:name": "UA2211 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

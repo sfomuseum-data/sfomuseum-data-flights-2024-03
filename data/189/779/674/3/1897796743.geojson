@@ -48,6 +48,7 @@
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
+        "custom_id": 1897796743,
         "flight_id": 1897796743
       }
     ],
@@ -58,11 +59,13 @@
       1159284261,
       1159289871
     ],
-    "wof:lastmodified": 1711989292,
+    "wof:lastmodified": 1717048248,
     "wof:name": "DL2986 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

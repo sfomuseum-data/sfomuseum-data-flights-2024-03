@@ -53,6 +53,7 @@
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
     "wof:hierarchy": [
       {
+        "custom_id": 1897757547,
         "flight_id": 1897757547
       }
     ],
@@ -63,11 +64,13 @@
       102526751,
       1159285413
     ],
-    "wof:lastmodified": 1711557148,
+    "wof:lastmodified": 1717048245,
     "wof:name": "UA3778 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -50,6 +50,7 @@
     "wof:geomhash": "eed3ad030b4c80153105b635669626b5",
     "wof:hierarchy": [
       {
+        "custom_id": 1897569613,
         "flight_id": 1897569613
       }
     ],
@@ -60,11 +61,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1709915536,
+    "wof:lastmodified": 1717048235,
     "wof:name": "UA8115 (SFO-TPA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

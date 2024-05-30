@@ -45,6 +45,7 @@
     "wof:geomhash": "eba9741d16611c9af3d962416d546de7",
     "wof:hierarchy": [
       {
+        "custom_id": 1897563833,
         "flight_id": 1897563833
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1709914001,
+    "wof:lastmodified": 1717048231,
     "wof:name": "OS7333 (MUC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

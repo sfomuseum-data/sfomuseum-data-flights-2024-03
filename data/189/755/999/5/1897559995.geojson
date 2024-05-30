@@ -48,6 +48,7 @@
     "wof:geomhash": "33c9625a4901edf29154e5ec4b308b8b",
     "wof:hierarchy": [
       {
+        "custom_id": 1897559995,
         "flight_id": 1897559995
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1709829075,
+    "wof:lastmodified": 1717048236,
     "wof:name": "UA8269 (SFO-MCO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-03",
     "wof:superseded_by": [],
     "wof:supersedes": []
